@@ -1,0 +1,7 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qUA/mink/Sweden/3900/1984q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I467596800000000000
+NNáRq
+UcountryqUSwedenqUhost_speciesqUWeaselqUsubtypeqUH10N4qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

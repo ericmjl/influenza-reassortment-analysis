@@ -1,0 +1,8 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qU!A/whistling swan/Shimane/580/2002q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I1039219200000000000
+NNáRq
+UcountryqUJapanqUstateqUShimaneqUhost_speciesqU
+Swan/AvianqUsubtypeqUH5N3qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

@@ -1,0 +1,7 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qUA/mallard/Alberta/93/1996q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I838944000000000000
+NNáRq
+UcountryqUCanadaqUstateqUAlbertaqUhost_speciesqUMallard/AvianqUsubtypeqUH7N3qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

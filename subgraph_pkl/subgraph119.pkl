@@ -1,0 +1,8 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qUA/duck/Hunan/S11893/2012q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I1332633600000000000
+NNáRq
+UcountryqUChinaqUstateqUHunanqUhost_speciesqU
+Duck/AvianqUsubtypeqUH4N6qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

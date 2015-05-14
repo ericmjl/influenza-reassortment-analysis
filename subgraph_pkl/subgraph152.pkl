@@ -1,0 +1,7 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qU'A/Nymc X-157-A/St.Petersburg/8/2006)_RXq}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I1136073600000000000
+NNáRq
+UcountryqU-N/A-qUstateqUSt.PetersburgqUhost_speciesqUHumanqUsubtypeqUH1N1qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

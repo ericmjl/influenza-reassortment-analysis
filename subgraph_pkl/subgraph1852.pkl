@@ -1,0 +1,7 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qU$A/common murre/Oregon/19497-004/2005q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I1122249600000000000
+NNáRq
+UcountryqUUSAqUstateqUOregonqUhost_speciesqUCommon Murre/AvianqUsubtypeqUH9N5qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

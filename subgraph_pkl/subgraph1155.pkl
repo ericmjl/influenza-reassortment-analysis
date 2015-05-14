@@ -1,0 +1,7 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qU,A/domestic green-winged teal/Hunan/3450/2006q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I1142467200000000000
+NNáRq
+UcountryqUChinaqUstateqUHunanqUhost_speciesqUGreen-Winged Teal/AvianqUsubtypeqUH5N1qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

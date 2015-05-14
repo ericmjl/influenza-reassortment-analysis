@@ -1,0 +1,7 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qUA/mallard/Wisconsin/373/1981q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I347155200000000000
+NNáRq
+UcountryqUUSAqUstateqU	WisconsinqUhost_speciesqUMallard/AvianqUsubtypeqUH4N2qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

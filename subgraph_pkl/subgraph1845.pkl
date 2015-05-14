@@ -1,0 +1,7 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qUA/Swine/Spain/80598LP4/2007q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I1167609600000000000
+NNáRq
+UcountryqUSpainqUhost_speciesqUSwineqUsubtypeqUH1N2qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

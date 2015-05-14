@@ -1,0 +1,7 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qUA/garganey/Altai/1213/2007q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I1190764800000000000
+NNáRq
+UcountryqURussiaqUstateqUAltaiqUhost_speciesqUGarganey/AvianqUsubtypeqUH5N2qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

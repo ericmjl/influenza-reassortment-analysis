@@ -1,0 +1,7 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qU(A/green-winged teal/Louisiana/169GW/1988q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I567993600000000000
+NNáRq
+UcountryqUUSAqUstateqU	LouisianaqUhost_speciesqUGreen-Winged Teal/AvianqUsubtypeqUH10N7qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

@@ -1,0 +1,7 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qUA/mallard/Potsdam/177-6/1983q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I410227200000000000
+NNáRq
+UcountryqUGermanyqUstateqUPotsdamqUhost_speciesqUMallard/AvianqUsubtypeqUH2N2qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

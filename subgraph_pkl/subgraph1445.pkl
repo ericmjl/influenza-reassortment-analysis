@@ -1,0 +1,7 @@
+Äcnetworkx.classes.digraph
+DiGraph
+q)Åq}q(Unodeq}qUA/goose/Guangxi/020G/2009q}q(Ucollection_dateqcpandas.tslib
+Timestamp
+q	I1242345600000000000
+NNáRq
+UcountryqUChinaqUstateqUGuangxiqUhost_speciesqUGoose/AvianqUsubtypeqUH3N8qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.
