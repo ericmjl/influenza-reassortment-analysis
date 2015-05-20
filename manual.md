@@ -104,7 +104,7 @@ There is also a list of scripts present:
 - Wait until all of the jobs have been run.
 - When all of the jobs are done, clean up the `shell_scripts` directory as per before.
 - Then, run the following bash commands:
-    - `python compile affmats_sh.py`
+    - `python compile_affmats_sh.py`
     - `cd shell_scripts`
     - `qsub compile_affmats.sh`
 - Wait until the job is done.
@@ -123,25 +123,25 @@ There is also a list of scripts present:
 
 ## Step 6: Search for max edges for each virus - full ‘transmissions’ only.
 
-- Run the graph initializer script: `python graph_initializer.py`. This one should run fast. The expected output is a `.pkl` file which houses the initialized network with only nodes present.
+- Run the graph initializer script: `python graph_initializer.py [handle]`. This one should run fast. The expected output is a `.pkl` file which houses the initialized network with only nodes present.
 - Run the script: `python max_edge_finder_sh.py`
 - Then, run the following commands:
     - `cd shell_scripts`
-    - qsub max_edge_finder.sh
+    - `qsub max_edge_finder.sh`
 - Wait until all the jobs are done.
 - When done, clean up the `shell_scripts` directory.
 
 ## Step 7: Combine found edges into a condensed graph.
 
-- Run the graph combiner script: `python graph_combiner.py “20141103 All IRD"`
+- Run the graph combiner script: `python graph_combiner.py [handle]`
 - If your “handle” is different, i.e. you have a different prefix for all of the files, then replace the text inside the quotation marks with your handle.
 - This one should be fast, i.e. within a dozen minutes.
 
 ## Step 8: Compile a list of nodes to perform source pair searches on.
 
-- Run the script using: `python second_search.py “handle” “percentile”` 
-    - `handle`: the common prefix to all of your files.
-    - `percentile`: the cutoff percentile of whole genome edges to try source pair searches. Our analysis used the 10th percentile, so the value input was “10”.
+- Run the script using: `python second_search.py [handle] [percentile]` 
+    - `[handle]`: the common prefix to all of your files.
+    - `[percentile]`: the cutoff percentile of whole genome edges to try source pair searches. Our analysis used the 10th percentile, so the value input was “10”.
 - This script should run fast.
 - The expected output is a `.pkllist` file with a list of nodes to perform source pairs on.
 
@@ -156,12 +156,12 @@ There is also a list of scripts present:
 
 ## Step 10: Combine source pairs with full graph.
 
-- Run the following bash commands: `python source_pair_combiner.py “20141103 All IRD"`
+- Run the following bash commands: `python source_pair_combiner.py [handle]`
 - This one should run fast (~minutes).
 
 ## Step 11: Annotate graph with edge and node metadata
 
 - Run the following bash commands:
-    - `python graph_pwi_finder.py “20141103 All IRD”` (this should take a few minutes) - this will annotate edge PWIs
-    - `python graph_cleaner.py “20141103 All IRD”` (also should be fast)
+    - `python graph_pwi_finder.py [handle]` (this should take a few minutes) - this will annotate edge PWIs
+    - `python graph_cleaner.py [handle]` (also should be fast)
 - At this point, the graph construction steps are complete. 
