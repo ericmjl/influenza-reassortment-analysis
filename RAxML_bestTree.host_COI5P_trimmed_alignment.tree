@@ -1,0 +1,199 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=105;
+	taxlabels
+	American_Black_Duck
+	American_Green-Winged_Teal
+	American_Wigeon
+	Baikal_Teal
+	Bar-Headed_Goose
+	Barn_Swallow
+	Barnacle_Goose
+	'Bewick|s_Swan'
+	Black-Headed_Gull
+	Black_Duck
+	Black_Scoter
+	Blue-Winged_Teal
+	Brown-Headed_Gull
+	Bufflehead
+	Camel
+	Canada_Goose
+	Canvasback
+	Chicken
+	Chukar
+	Cinnamon_Teal
+	Common_Coot
+	Common_Eider
+	Common_Murre
+	Common_Scoter
+	Condor
+	Coot
+	Crane
+	Crow
+	Dog
+	Domestic_Cat
+	Duck
+	Dunlin
+	Eurasian_Eagle-Owl
+	Eurasian_Wigeon
+	Finch
+	Gadwall
+	Garganey
+	Glaucous_Gull
+	Goose
+	Great_Crested_Grebe
+	Greater_Scaup
+	Greater_White-Fronted_Goose
+	Green-Winged_Teal
+	Grey_Heron
+	Heron
+	Herring_Gull
+	Hooded_Merganser
+	Horse
+	Human
+	Iceland_Gull
+	Japanese_Quail
+	Knot
+	Laughing_Gull
+	Least_Sandpiper
+	Lesser_Scaup
+	Long-Tailed_Duck
+	Magpie_Robin
+	Mallard
+	Murre
+	Muscovy_Duck
+	Mute_Swan
+	Northern_Pintail
+	Northern_Shoveler
+	Ostrich
+	Panda
+	Pelican
+	Peregrine_Falcon
+	Pheasant
+	Pigeon
+	Pink-Footed_Goose
+	Pintail
+	Poultry
+	Quail
+	Red-Crested_Pochard
+	Red-Necked_Stint
+	Red_Knot
+	Redhead
+	Redhead_Duck
+	Rhea
+	Ring-Necked_Duck
+	Rook
+	Rosy-Billed_Pochard
+	Ruddy_Turnstone
+	Saker_Falcon
+	Sanderling
+	Scaup
+	Semipalmated_Sandpiper
+	Sharp-Tailed_Sandpiper
+	Shoveler
+	Silky_Chicken
+	Snow_Goose
+	Sooty_Tern
+	Sparrow
+	Spot-Billed_Duck
+	Swan
+	Swine
+	Teal
+	Tree_Sparrow
+	Tufted_Duck
+	Tundra_Swan
+	Waterfowl
+	Whiskered_Tern
+	White-Rumped_Sandpiper
+	Whooper_Swan
+	Wild_Chicken
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((Snow_Goose:0.007522,((Pink-Footed_Goose:5.0E-6,(Bar-Headed_Goose:5.0E-6,Goose:5.0E-6):5.0E-6):5.0E-6,Greater_White-Fronted_Goose:5.0E-6):0.015301):0.018977,(((((Common_Scoter:5.0E-6,Black_Scoter:5.0E-6):0.042495,(((((Ring-Necked_Duck:5.0E-6,Scaup:5.0E-6):5.0E-6,(Tufted_Duck:5.0E-6,Lesser_Scaup:5.0E-6):5.0E-6):5.0E-6,Redhead:5.0E-6):5.0E-6,Greater_Scaup:5.0E-6):5.0E-6,(Canvasback:5.0E-6,Redhead_Duck:5.0E-6):5.0E-6):0.03952):0.011685,(Long-Tailed_Duck:0.052133,((((Quail:5.0E-6,Japanese_Quail:5.0E-6):0.146214,((Pheasant:0.163282,((Silky_Chicken:5.0E-6,(Wild_Chicken:5.0E-6,Chicken:5.0E-6):5.0E-6):5.0E-6,Poultry:5.0E-6):0.062867):0.036222,Chukar:0.084526):0.032348):0.051433,((((Peregrine_Falcon:5.0E-6,Saker_Falcon:5.0E-6):0.099157,((((Crane:0.10626,(Grey_Heron:5.0E-6,Heron:5.0E-6):0.147165):0.018427,((Great_Crested_Grebe:0.078989,(((Sooty_Tern:0.043093,Whiskered_Tern:0.05984):0.026945,(((((Black-Headed_Gull:5.0E-6,Herring_Gull:5.0E-6):5.0E-6,Laughing_Gull:5.0E-6):5.0E-6,(Iceland_Gull:5.0E-6,Glaucous_Gull:5.0E-6):5.0E-6):5.0E-6,Brown-Headed_Gull:5.0E-6):0.094226,(Common_Murre:5.0E-6,Murre:5.0E-6):0.06668):0.037415):0.043937,(((Red_Knot:5.0E-6,(Dunlin:5.0E-6,(((Semipalmated_Sandpiper:5.0E-6,Sharp-Tailed_Sandpiper:5.0E-6):5.0E-6,(Knot:5.0E-6,(Least_Sandpiper:5.0E-6,Sanderling:5.0E-6):5.0E-6):5.0E-6):5.0E-6,Red-Necked_Stint:5.0E-6):5.0E-6):5.0E-6):5.0E-6,White-Rumped_Sandpiper:5.0E-6):0.052984,Ruddy_Turnstone:0.063926):0.067008):0.02212):0.002738,Condor:0.123462):0.012052):0.022958,(Pelican:0.111305,(((Barn_Swallow:0.135507,Magpie_Robin:0.128552):0.027992,((Finch:0.108335,(Sparrow:5.0E-6,Tree_Sparrow:5.0E-6):0.128338):0.033718,(Crow:5.0E-6,Rook:5.0E-6):0.136913):0.02994):0.086435,(Pigeon:0.177396,(Rhea:0.175495,Ostrich:0.207516):0.06798):0.018139):0.020055):0.004059):0.022462,(Coot:5.0E-6,Common_Coot:5.0E-6):0.166814):0.017809):0.011684,(((((Panda:0.25018,Dog:0.206026):0.069736,Domestic_Cat:0.251025):0.042645,Camel:0.379418):0.022366,(Swine:0.268508,Human:0.291071):0.028968):0.028347,Horse:0.320552):0.127596):0.031672,Eurasian_Eagle-Owl:0.182415):0.016571):0.081586,(Rosy-Billed_Pochard:5.0E-6,Red-Crested_Pochard:5.0E-6):0.063113):0.049913):0.002546):0.005402,(((((Gadwall:5.0E-6,((((Waterfowl:5.0E-6,Cinnamon_Teal:5.0E-6):5.0E-6,((Garganey:5.0E-6,(Spot-Billed_Duck:5.0E-6,Mallard:5.0E-6):5.0E-6):5.0E-6,(American_Green-Winged_Teal:5.0E-6,(Shoveler:5.0E-6,Baikal_Teal:5.0E-6):5.0E-6):5.0E-6):5.0E-6):5.0E-6,Eurasian_Wigeon:5.0E-6):5.0E-6,Green-Winged_Teal:5.0E-6):5.0E-6):5.0E-6,(Black_Duck:5.0E-6,(Pintail:5.0E-6,((Blue-Winged_Teal:5.0E-6,Northern_Pintail:5.0E-6):5.0E-6,(Duck:5.0E-6,(American_Black_Duck:5.0E-6,Northern_Shoveler:5.0E-6):5.0E-6):5.0E-6):5.0E-6):5.0E-6):5.0E-6):5.0E-6,(American_Wigeon:5.0E-6,Teal:5.0E-6):5.0E-6):0.070888,Muscovy_Duck:0.081152):0.004665,(Common_Eider:0.043187,(Bufflehead:0.045322,Hooded_Merganser:0.058305):0.011411):0.007763):0.004171):0.058544,(Barnacle_Goose:5.0E-6,Canada_Goose:5.0E-6):0.03249):0.009814):0.097983,((Tundra_Swan:5.0E-6,(Whooper_Swan:5.0E-6,Swan:5.0E-6):5.0E-6):5.0E-6,Mute_Swan:5.0E-6):5.0E-6,'Bewick|s_Swan':5.0E-6);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="POLAR";
+	set layout.zoom=208;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

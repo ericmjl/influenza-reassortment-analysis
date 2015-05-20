@@ -1,0 +1,262 @@
+
+
+IMPORTANT WARNING: Sequences Bewick|s_Swan and Tundra_Swan are exactly identical
+
+
+IMPORTANT WARNING: Sequences Bewick|s_Swan and Whooper_Swan are exactly identical
+
+
+IMPORTANT WARNING: Sequences Bewick|s_Swan and Swan are exactly identical
+
+
+IMPORTANT WARNING: Sequences Bewick|s_Swan and Mute_Swan are exactly identical
+
+
+IMPORTANT WARNING: Sequences Red-Necked_Stint and Sharp-Tailed_Sandpiper are exactly identical
+
+
+IMPORTANT WARNING: Sequences Red-Necked_Stint and White-Rumped_Sandpiper are exactly identical
+
+
+IMPORTANT WARNING: Sequences Red-Necked_Stint and Knot are exactly identical
+
+
+IMPORTANT WARNING: Sequences Red-Necked_Stint and Red_Knot are exactly identical
+
+
+IMPORTANT WARNING: Sequences Red-Necked_Stint and Dunlin are exactly identical
+
+
+IMPORTANT WARNING: Sequences Red-Necked_Stint and Sanderling are exactly identical
+
+
+IMPORTANT WARNING: Sequences Red-Necked_Stint and Least_Sandpiper are exactly identical
+
+
+IMPORTANT WARNING: Sequences Red-Necked_Stint and Semipalmated_Sandpiper are exactly identical
+
+
+IMPORTANT WARNING: Sequences Quail and Japanese_Quail are exactly identical
+
+
+IMPORTANT WARNING: Sequences Common_Scoter and Black_Scoter are exactly identical
+
+
+IMPORTANT WARNING: Sequences Peregrine_Falcon and Saker_Falcon are exactly identical
+
+
+IMPORTANT WARNING: Sequences Crow and Rook are exactly identical
+
+
+IMPORTANT WARNING: Sequences Laughing_Gull and Glaucous_Gull are exactly identical
+
+
+IMPORTANT WARNING: Sequences Laughing_Gull and Brown-Headed_Gull are exactly identical
+
+
+IMPORTANT WARNING: Sequences Laughing_Gull and Herring_Gull are exactly identical
+
+
+IMPORTANT WARNING: Sequences Laughing_Gull and Iceland_Gull are exactly identical
+
+
+IMPORTANT WARNING: Sequences Laughing_Gull and Black-Headed_Gull are exactly identical
+
+
+IMPORTANT WARNING: Sequences Heron and Grey_Heron are exactly identical
+
+
+IMPORTANT WARNING: Sequences Tree_Sparrow and Sparrow are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Garganey are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Mallard are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Waterfowl are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Pintail are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Spot-Billed_Duck are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and American_Green-Winged_Teal are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Cinnamon_Teal are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Blue-Winged_Teal are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Northern_Pintail are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Green-Winged_Teal are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Eurasian_Wigeon are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Teal are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and American_Wigeon are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Baikal_Teal are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Duck are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Northern_Shoveler are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Shoveler are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and Gadwall are exactly identical
+
+
+IMPORTANT WARNING: Sequences Black_Duck and American_Black_Duck are exactly identical
+
+
+IMPORTANT WARNING: Sequences Common_Coot and Coot are exactly identical
+
+
+IMPORTANT WARNING: Sequences Pink-Footed_Goose and Bar-Headed_Goose are exactly identical
+
+
+IMPORTANT WARNING: Sequences Pink-Footed_Goose and Greater_White-Fronted_Goose are exactly identical
+
+
+IMPORTANT WARNING: Sequences Pink-Footed_Goose and Goose are exactly identical
+
+
+IMPORTANT WARNING: Sequences Canada_Goose and Barnacle_Goose are exactly identical
+
+
+IMPORTANT WARNING: Sequences Common_Murre and Murre are exactly identical
+
+
+IMPORTANT WARNING: Sequences Tufted_Duck and Scaup are exactly identical
+
+
+IMPORTANT WARNING: Sequences Tufted_Duck and Greater_Scaup are exactly identical
+
+
+IMPORTANT WARNING: Sequences Tufted_Duck and Lesser_Scaup are exactly identical
+
+
+IMPORTANT WARNING: Sequences Tufted_Duck and Canvasback are exactly identical
+
+
+IMPORTANT WARNING: Sequences Tufted_Duck and Redhead are exactly identical
+
+
+IMPORTANT WARNING: Sequences Tufted_Duck and Redhead_Duck are exactly identical
+
+
+IMPORTANT WARNING: Sequences Tufted_Duck and Ring-Necked_Duck are exactly identical
+
+
+IMPORTANT WARNING: Sequences Wild_Chicken and Poultry are exactly identical
+
+
+IMPORTANT WARNING: Sequences Wild_Chicken and Silky_Chicken are exactly identical
+
+
+IMPORTANT WARNING: Sequences Wild_Chicken and Chicken are exactly identical
+
+
+IMPORTANT WARNING: Sequences Red-Crested_Pochard and Rosy-Billed_Pochard are exactly identical
+
+IMPORTANT WARNING
+Found 59 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file host_COI5P_trimmed_alignment_trees.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.1.20 released by Alexandros Stamatakis on April 18 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 274 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.17%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 3 inferences on the original alignment using 3 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 274
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxml -p 100 -# 3 -m GTRGAMMA -s host_COI5P_trimmed_alignment_trees.fasta -n host_COI5P_trimmed_alignment.tree -T 2 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.247 0.332 0.166 0.254 
+
+Reverting BFGS ... 
+Inference[0]: Time 34.835620 GAMMA-based likelihood -9621.535153, best rearrangement setting 10
+alpha[0]: 0.202529 rates[0] ac ag at cg ct gt: 1.223396 2.880569 0.850644 0.014907 7.147025 1.000000 
+Reverting BFGS ... 
+Inference[1]: Time 29.206192 GAMMA-based likelihood -9620.263591, best rearrangement setting 10
+alpha[0]: 0.202417 rates[0] ac ag at cg ct gt: 1.298983 2.942813 0.863415 0.016897 7.170104 1.000000 
+Reverting BFGS ... 
+Inference[2]: Time 31.766214 GAMMA-based likelihood -9606.359508, best rearrangement setting 10
+alpha[0]: 0.200751 rates[0] ac ag at cg ct gt: 3.278226 7.401135 2.357498 0.105496 18.095714 1.000000 
+
+
+Conducting final model optimizations on all 3 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -9607.626681 tree written to file /Users/ericmjl/Dropbox (MIT)/Research Projects/Runstadler Lab/Computational Analysis - Code Development/influenza-reassortment-analysis-notebooks/RAxML_result.host_COI5P_trimmed_alignment.tree.RUN.0
+Inference[1] final GAMMA-based Likelihood: -9607.257277 tree written to file /Users/ericmjl/Dropbox (MIT)/Research Projects/Runstadler Lab/Computational Analysis - Code Development/influenza-reassortment-analysis-notebooks/RAxML_result.host_COI5P_trimmed_alignment.tree.RUN.1
+Inference[2] final GAMMA-based Likelihood: -9606.290958 tree written to file /Users/ericmjl/Dropbox (MIT)/Research Projects/Runstadler Lab/Computational Analysis - Code Development/influenza-reassortment-analysis-notebooks/RAxML_result.host_COI5P_trimmed_alignment.tree.RUN.2
+
+
+Starting final GAMMA-based thorough Optimization on tree 2 likelihood -9606.290958 .... 
+
+Final GAMMA-based Score of best tree -9606.136508
+
+Program execution info written to /Users/ericmjl/Dropbox (MIT)/Research Projects/Runstadler Lab/Computational Analysis - Code Development/influenza-reassortment-analysis-notebooks/RAxML_info.host_COI5P_trimmed_alignment.tree
+Best-scoring ML tree written to: /Users/ericmjl/Dropbox (MIT)/Research Projects/Runstadler Lab/Computational Analysis - Code Development/influenza-reassortment-analysis-notebooks/RAxML_bestTree.host_COI5P_trimmed_alignment.tree
+
+Overall execution time: 106.587729 secs or 0.029608 hours or 0.001234 days
+
