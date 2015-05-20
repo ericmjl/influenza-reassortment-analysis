@@ -88,76 +88,80 @@ There is also a list of scripts present:
     - `cd shell_scripts`
     - `qsub align.sh`
 - Wait until all of the jobs have been run. On a large dataset, it’ll take a while - on the order of hours, depending on CPU usage and data size. 
-- While in the shell_scripts directory, clean up the directory by running the following commands:
+- While in the `shell_scripts` directory, clean up the directory by running the following commands:
     - `mv \*.sh.\* ../sge_outputs/.`
     - `cd ..`
 
-Step 4: Convert Distance Matrix into Thresholded Similarity Matrix, and Rename the Index/Columns.
-To enable parallel running of the compilation scripts, I have provided the following scripts:
-clean_affmats_sh.py <— corresponding with clean_affmats.py
-compile_affmats_sh.py <— corresponding with compile_affmats.py
-Run the following bash commands:
-python clean_affmats_sh.py
-cd shell_scripts
-qsub clean_affmats.sh
-Wait until all of the jobs have been run.
-When all of the jobs are done, clean up the shell_scripts directory by running the following commands:
-mv *.sh.* ../sge_outputs/.
-cd ..
-Then, run the following bash commands:
-python compile affmats_sh.py
-cd shell_scripts
-qsub compile_affmats.sh
-Wait until the job is done.
-When the job is done, clean up the shell_scripts directory again, following the same commands as listed before:
-mv *.sh.* ../sge_outputs/.
-cd ..
+## Step 4: Convert Distance Matrix into Thresholded Similarity Matrix, and Rename the Index/Columns.
 
-Step 5: Make a summed affinity/similarity matrix 
-Place the following shell script in the shell_scripts directory.
+- To enable parallel running of the compilation scripts, I have provided the following scripts:
+    - `clean_affmats_sh.py` <— corresponding with `clean_affmats.py`
+    - `compile_affmats_sh.py` <— corresponding with `compile_affmats.py`
+- Run the following bash commands:
+    - `python clean_affmats_sh.py`
+    - `cd shell_scripts`
+    - `qsub clean_affmats.sh`
+- Wait until all of the jobs have been run.
+- When all of the jobs are done, clean up the `shell_scripts` directory as per before.
+- Then, run the following bash commands:
+    - `python compile affmats_sh.py`
+    - `cd shell_scripts`
+    - `qsub compile_affmats.sh`
+- Wait until the job is done.
+- When the job is done, clean up the `shell_scripts` directory again.
 
-Run the following bash commands:
-cd shell_scripts
-qsub full_affmat.sh
-Wait until the job is done.
-When the job is done, similarly, clean up the shell_scripts directory, remembering to cd back into the project directory.
+## Step 5: Make a summed affinity/similarity matrix 
 
-Step 6: Search for max edges for each virus - full ‘transmissions’ only.
-Run the graph_initializer script: python graph_initializer.py. This one should run fast. The expected output is a .pkl file which houses the initialized network with only nodes present.
-Run the script max_edge_finder_sh.py: python max_edge_finder_sh.py
-Then, run the following commands:
-cd shell_scripts
-qsub max_edge_finder.sh
-Wait until all the jobs are done.
-When done, clean up the shell_scripts directory.
+- Create a shell script in the `shell_scripts` directory, that includes the following commands:
+    - `cd ..`
+    - `python full_affmat.py [handle]`
+- Run the following bash commands:
+    - `cd shell_scripts`
+    - `qsub full_affmat.sh`
+- Wait until the job is done.
+- When the job is done, similarly, clean up the `shell_scripts` directory.
 
-Step 7: Combine found edges into a condensed graph.
-Run the graph combiner script: python graph_combiner.py “20141103 All IRD"
-If your “handle” is different, i.e. you have a different prefix for all of the files, then replace the text inside the quotation marks with your handle.
-This one should be fast, i.e. within a dozen minutes.
+## Step 6: Search for max edges for each virus - full ‘transmissions’ only.
 
-Step 8: Compile a list of nodes to perform source pair searches on.
-Run the script using: python second_search.py “handle” “percentile” 
-handle: the common prefix to all of your files.
-percentile: the cutoff percentile of whole genome edges to try source pair searches. Our analysis used the 10th percentile, so the value input was “10”.
-This script should run fast.
-The expected output is a .pkllist file with a list of nodes to perform source pairs on.
+- Run the graph initializer script: `python graph_initializer.py`. This one should run fast. The expected output is a `.pkl` file which houses the initialized network with only nodes present.
+- Run the script: `python max_edge_finder_sh.py`
+- Then, run the following commands:
+    - `cd shell_scripts`
+    - qsub max_edge_finder.sh
+- Wait until all the jobs are done.
+- When done, clean up the `shell_scripts` directory.
 
-Step 9: Perform source pair searches.
-Run the following bash commands:
-python source_pair_sh.py
-cd shell_scripts
-qsub source_pair.sh
-Wait for the job to finish completing. This one should take a while, depending on CPU availability.
-When done, clean up the shell_scripts directory.
+## Step 7: Combine found edges into a condensed graph.
 
-Step 10: Combine source pairs with full graph
-Run the following bash commands:
-python source_pair_combiner.py “20141103 All IRD"
-This one should run fast (~minutes).
+- Run the graph combiner script: `python graph_combiner.py “20141103 All IRD"`
+- If your “handle” is different, i.e. you have a different prefix for all of the files, then replace the text inside the quotation marks with your handle.
+- This one should be fast, i.e. within a dozen minutes.
 
-Step 11: Annotate graph with edge and node metadata
-Run the following bash commands:
-python graph_pwi_finder.py “20141103 All IRD” (this should take a few minutes) - this will annotate edge PWIs
-python graph_cleaner.py “20141103 All IRD” (also should be fast)
-At this point, the graph construction steps are complete. 
+## Step 8: Compile a list of nodes to perform source pair searches on.
+
+- Run the script using: `python second_search.py “handle” “percentile”` 
+    - `handle`: the common prefix to all of your files.
+    - `percentile`: the cutoff percentile of whole genome edges to try source pair searches. Our analysis used the 10th percentile, so the value input was “10”.
+- This script should run fast.
+- The expected output is a `.pkllist` file with a list of nodes to perform source pairs on.
+
+## Step 9: Perform source pair searches.
+
+- Run the following bash commands:
+    - `python source_pair_sh.py`
+    - `cd shell_scripts`
+    - `qsub source_pair.sh`
+- Wait for the job to finish completing. This one should take a while, depending on CPU availability. May take up to a few hours.
+- When done, clean up the `shell_scripts` directory.
+
+## Step 10: Combine source pairs with full graph.
+
+- Run the following bash commands: `python source_pair_combiner.py “20141103 All IRD"`
+- This one should run fast (~minutes).
+
+## Step 11: Annotate graph with edge and node metadata
+
+- Run the following bash commands:
+    - `python graph_pwi_finder.py “20141103 All IRD”` (this should take a few minutes) - this will annotate edge PWIs
+    - `python graph_cleaner.py “20141103 All IRD”` (also should be fast)
+- At this point, the graph construction steps are complete. 
