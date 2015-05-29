@@ -1,629 +1,639 @@
 ,Search Term,Returned Location,Longitude,Latitude
 0,Canada,Canada,-106.346771,56.130366
-1,Australia New South Wales,"New South Wales, Australia",151.2052868,-33.864174
-2,France Reunion,"Réunion, 29680 Roscoff, France",-3.994668,48.702056
-3,USA Florida,"Florida, USA",-81.5157535,27.6648274
-4,USA Santa Clara,"Santa Clara, CA, USA",-121.9552356,37.3541079
-5,Peru Piura,"Piura, Peru",-80.633333,-5.2
-6,Indonesia Banten,"Banten, Republic of Indonesia",106.0640179,-6.4058172
-7,South Korea KU,"National Assembly of South Korea, Uisadang-daero, Yeoeuido-dong, Yeongdeungpo-gu, Seoul, South Korea",126.9191163,37.5318933
-8,China Guangzhou,"Guangzhou, Guangdong, China",113.264385,23.12911
-9,USA Minneapolis,"Minneapolis, MN, USA",-93.2650108,44.977753
-10,Viet Nam TayNguyen,"Tây Nguyên, Đăk Ha, Đắk Glong, Đăk Nông, Vietnam",107.7850886,12.083802
-11,Sweden Umea,"Umeå, Sweden",20.2630354,63.8258471
-12,USA South Dakota,"South Dakota, USA",-99.9018131,43.9695148
-13,China Xinjiang,"Xinjiang, China",87.627704,43.793026
-14,Estonia Tallinn,"Tallinn, Estonia",24.7535746,59.4369608
-15,USA Cambridge,"Cambridge, MA, USA",-71.1097335,42.3736158
-16,Cote dIvoire Cote d'Ivoire,Côte d'Ivoire,-5.54708,7.539989
-17,United Kingdom Brighton,"Brighton, The City of Brighton and Hove, UK",-0.137163,50.82253
-18,New Zealand South Canterbury,"Canterbury, New Zealand",171.1637245,-43.7542275
-19,China Fuzhou,"Fuzhou, Fujian, China",119.296494,26.074508
-20,Germany Sachsen-Anhalt,"Saxony-Anhalt, Germany",11.6922735,51.9502649
-21,Peru Trujillo,"Trujillo, Peru",-79.0215336,-8.1090524
-22,Japan Chiba-C,"Chiba, Chiba Prefecture, Japan",140.1062907,35.6072668
-23,Japan Chiba,"Chiba, Chiba Prefecture, Japan",140.1062907,35.6072668
-24,China Xuyi,"Xuyi, Huai'an, Jiangsu, China",118.544361,33.011971
-25,Russia Karasuk,"Karasuk, Novosibirsk Oblast, Russia",78.05,53.716667
-26,Viet Nam Hanoi,"Hanoi, Hoàn Kiếm, Hanoi, Vietnam",105.8341598,21.0277644
-27,Russia IIV-Anadyr,"Anadyr, Chukotka Autonomous Okrug, Russia, 689000",177.516667,64.733333
-28,South Korea Kyonggi,"Gyeonggi-do, South Korea",127.5183,37.4138
-29,Russia Barnaul,"Barnaul, Altai Krai, Russia",83.7697832,53.3547792
-30,China Nanjing,"Nanjing, Jiangsu, China",118.796877,32.060255
-31,Canada Prince Edward Island,"Prince Edward Island, Canada",-63.4168136,46.510712
-32,China Lengshuitan,"Lengshuitan, Yongzhou, Hunan, China",111.592143,26.461077
-33,USA San Antonio,"San Antonio, TX, USA",-98.4936282,29.4241219
-34,Germany Nordkirchen,"Nordkirchen, Germany",7.5222188,51.7385194
-35,Russia Cheboksary,"Cheboksary, Chuvashia Republic, Russia",47.233333,56.15
-36,Germany Potsdam,"Potsdam, Germany",13.0644729,52.3905689
-37,Germany Wagun,"Wagun, 17159 Dargun, Germany",12.8190403,53.869026
-38,Australia Westmead,"Westmead NSW 2145, Australia",150.9872768,-33.8076889
-39,Russia Tver,"Tver, Tver Oblast, Russia",35.9175965,56.8587214
-40,New Zealand Auckland,"Auckland, New Zealand",174.7633315,-36.8484597
-41,Georgia Republic of Georgia,"Tbilisi Airport (TBS), Tbilisi, Georgia",44.9568187,41.6697036
-42,Russia Ulan Ude,"Ulan-Ude, Buryatia, Russia",107.607338,51.8238785
-43,Mexico Queretaro,"Santiago de Querétaro, Querétaro, Mexico",-100.3898881,20.5887932
-44,Germany Garrel,"Garrel, Germany",8.0255988,52.9531085
-45,Thailand Saraburi,"Saraburi, Thailand",100.9101421,14.5289154
+1,Australia_New South Wales,"New South Wales, Australia",151.2052868,-33.864174
+2,France_Reunion,"Réunion, 29680 Roscoff, France",-3.994668,48.702056
+3,China_Hangzhou,"Hangzhou, Zhejiang, China",120.15507,30.274085
+4,USA_Florida,"Florida, USA",-81.5157535,27.6648274
+5,USA_Santa Clara,"Santa Clara, CA, USA",-121.9552356,37.3541079
+6,Peru_Piura,"Piura, Peru",-80.633333,-5.2
+7,Indonesia_Banten,"Banten, Republic of Indonesia",106.0640179,-6.4058172
+8,South Korea_KU,"National Assembly of South Korea, Uisadang-daero, Yeoeuido-dong, Yeongdeungpo-gu, Seoul, South Korea",126.9191163,37.5318933
+9,China_Guangzhou,"Guangzhou, Guangdong, China",113.264385,23.12911
+10,USA_Minneapolis,"Minneapolis, MN, USA",-93.2650108,44.977753
+11,Viet Nam_TayNguyen,"Tây Nguyên, Đăk Ha, Đắk Glong, Đăk Nông, Vietnam",107.7850886,12.083802
+12,Sweden_Umea,"Umeå, Sweden",20.2630354,63.8258471
+13,USA_South Dakota,"South Dakota, USA",-99.9018131,43.9695148
+14,China_Xinjiang,"Xinjiang, China",87.627704,43.793026
+15,Estonia_Tallinn,"Tallinn, Estonia",24.7535746,59.4369608
+16,USA_Cambridge,"Cambridge, MA, USA",-71.1097335,42.3736158
+17,Cote dIvoire_Cote d'Ivoire,Côte d'Ivoire,-5.54708,7.539989
+18,United Kingdom_Brighton,"Brighton, The City of Brighton and Hove, UK",-0.137163,50.82253
+19,New Zealand_South Canterbury,"Canterbury, New Zealand",171.1637245,-43.7542275
+20,China_Fuzhou,"Fuzhou, Fujian, China",119.296494,26.074508
+21,Germany_Sachsen-Anhalt,"Saxony-Anhalt, Germany",11.6922735,51.9502649
+22,Peru_Trujillo,"Trujillo, Peru",-79.0215336,-8.1090524
+23,Japan_Chiba-C,"Chiba, Chiba Prefecture, Japan",140.1062907,35.6072668
+24,Japan_Chiba,"Chiba, Chiba Prefecture, Japan",140.1062907,35.6072668
+25,China_Xuyi,"Xuyi, Huai'an, Jiangsu, China",118.544361,33.011971
+26,Russia_Karasuk,"Karasuk, Novosibirsk Oblast, Russia",78.05,53.716667
+27,Viet Nam_Hanoi,"Hanoi, Hoàn Kiếm, Hanoi, Vietnam",105.8341598,21.0277644
+28,Russia_IIV-Anadyr,"Anadyr, Chukotka Autonomous Okrug, Russia, 689000",177.516667,64.733333
+29,South Korea_Kyonggi,"Gyeonggi-do, South Korea",127.5183,37.4138
+30,Russia_Barnaul,"Barnaul, Altai Krai, Russia",83.7697832,53.3547792
+31,China_Nanjing,"Nanjing, Jiangsu, China",118.796877,32.060255
+32,Canada_Prince Edward Island,"Prince Edward Island, Canada",-63.4168136,46.510712
+33,China_Lengshuitan,"Lengshuitan, Yongzhou, Hunan, China",111.592143,26.461077
+34,USA_San Antonio,"San Antonio, TX, USA",-98.4936282,29.4241219
+35,Germany_Nordkirchen,"Nordkirchen, Germany",7.5222188,51.7385194
+36,Russia_Cheboksary,"Cheboksary, Chuvashia Republic, Russia",47.233333,56.15
+37,Germany_Potsdam,"Potsdam, Germany",13.0644729,52.3905689
+38,Germany_Wagun,"Wagun, 17159 Dargun, Germany",12.8190403,53.869026
+39,Australia_Westmead,"Westmead NSW 2145, Australia",150.9872768,-33.8076889
+40,Japan_Hiroshima,"Hiroshima, Hiroshima Prefecture, Japan",132.4552927,34.3852029
+41,New Zealand_Auckland,"Auckland, New Zealand",174.7633315,-36.8484597
+42,Georgia_Republic of Georgia,"Tbilisi Airport (TBS), Tbilisi, Georgia",44.9568187,41.6697036
+43,Russia_Ulan Ude,"Ulan-Ude, Buryatia, Russia",107.607338,51.8238785
+44,Germany_Garrel,"Garrel, Germany",8.0255988,52.9531085
+45,Thailand_Saraburi,"Saraburi, Thailand",100.9101421,14.5289154
 46,Norway,Norway,8.468946,60.472024
-47,Thailand NaraThiwat,"Narathiwat, Thailand",101.8253143,6.4254607
-48,USA North Dakota,"North Dakota, USA",-101.0020119,47.5514926
-49,Germany Langefoerden,United States,-95.712891,37.09024
-50,Canada NB,"New Brunswick, Canada",-66.4619164,46.5653163
-51,China Hangzhou,"Hangzhou, Zhejiang, China",120.15507,30.274085
-52,Japan Kanagawa,"Kanagawa Ward, Yokohama, Kanagawa Prefecture, Japan",139.6294307,35.4769011
-53,South Korea Korea,South Korea,127.766922,35.907757
-54,Thailand Kohn Kaen,"Khon Kaen Airport (KKC), Sila, Mueang Khon Kaen District, Khon Kaen 40000, Thailand",102.7867966,16.4651045
-55,Germany Rugen,"Rügen, 18528 Parchtitz, Germany",13.3630491,54.3519967
-56,China Tibet,"Tibet, China",91.117212,29.646923
-57,Viet Nam Ca Mau,"Ca Mau, Vietnam",105.1258955,8.9624099
-58,Colombia Bogota,"Bogotá, Bogota, Colombia",-74.075833,4.598056
+47,Thailand_NaraThiwat,"Narathiwat, Thailand",101.8253143,6.4254607
+48,USA_North Dakota,"North Dakota, USA",-101.0020119,47.5514926
+49,Germany_Langefoerden,"Gera, Germany",12.0807203,50.8850706
+50,Canada_NB,"New Brunswick, Canada",-66.4619164,46.5653163
+51,Russia_Irkutsk,"International Airport Irkutsk (IKT), ulitsa Shiryamova, 13, Irkutsk, Irkutskaya oblast', Russia, 664000",104.3833366,52.2685014
+52,Japan_Kanagawa,"Kanagawa Ward, Yokohama, Kanagawa Prefecture, Japan",139.6294307,35.4769011
+53,South Korea_Korea,South Korea,127.766922,35.907757
+54,Thailand_Kohn Kaen,"Khon Kaen Airport (KKC), Sila, Mueang Khon Kaen District, Khon Kaen 40000, Thailand",102.7867966,16.4651045
+55,Germany_Rugen,"Rügen, 18528 Parchtitz, Germany",13.3630491,54.3519967
+56,China_Tibet,"Tibet, China",91.117212,29.646923
+57,Viet Nam_Ca Mau,"Ca Mau, Vietnam",105.1258955,8.9624099
+58,Colombia_Bogota,"Bogotá, Bogota, Colombia",-74.075833,4.598056
 59,Finland,Finland,25.748151,61.92411
-60,Belgium Gent,"Ghent, Belgium",3.7174243,51.0543422
-61,USA District of Columbia,"Washington, DC, USA",-77.0368707,38.9071923
-62,New Zealand Southland,"Southland, New Zealand",167.6755387,-45.8489159
-63,Japan Saitama,"Saitama, Saitama Prefecture, Japan",139.6454822,35.8617292
-64,Canada Nunavet,"Nunavut, Canada",-83.1075769,70.2997711
-65,Canada Canada-PQ,"Quebec, Canada",-73.5491361,52.9399159
+60,Belgium_Gent,"Ghent, Belgium",3.7174243,51.0543422
+61,USA_District of Columbia,"Washington, DC, USA",-77.0368707,38.9071923
+62,New Zealand_Southland,"Southland, New Zealand",167.6755387,-45.8489159
+63,Japan_Saitama,"Saitama, Saitama Prefecture, Japan",139.6454822,35.8617292
+64,Canada_Nunavet,"Nunavut, Canada",-83.1075769,70.2997711
+65,Canada_Canada-PQ,"Québec, Canada",-73.5491361,52.9399159
 66,Portugal,Portugal,-8.224454,39.399872
-67,Russia Tomsk,"Tomsk, Tomsk Oblast, Russia",84.9924506,56.5010397
-68,Thailand swine,"Swine Breeds Center, Wang Rong Yai, Sikhio District, Nakhon Ratchasima 30140, Thailand",101.711528,15.0677554
-69,New Zealand Christchurch,"Christchurch, New Zealand",172.6362254,-43.5320544
-70,Spain Barcelona,"Barcelona–El Prat Airport (BCN), 08820 El Prat de Llobregat, Barcelona, Spain",2.0832941,41.297445
-71,USA OH,"Ohio, USA",-82.907123,40.4172871
-72,Russia Rostov-on-Don,"Rostov-on-Don, Rostov Oblast, Russia",39.7,47.233333
-73,Germany Bonn,"Bonn, Germany",7.0982068,50.73743
-74,USA Houston,"Houston, TX, USA",-95.3698028,29.7604267
-75,Denmark Aarhus,"Aarhus, Denmark",10.203921,56.162939
-76,USA Southeastern Alaska,"Southeast Tours, Skagway, AK 99840, USA",-135.3136088,59.4584011
-77,Kuwait,Kuwait,47.481766,29.31166
-78,Germany Stralsund,"Stralsund, Germany",13.0770347,54.3090654
-79,Germany Cologne,"Cologne, Germany",6.9602786,50.937531
-80,USA Durham,"Durham, NC, USA",-78.898619,35.9940329
-81,Australia North Fitzroy,"Fitzroy VIC 3065, Australia",144.9786869,-37.7987007
-82,Portugal PT,Portugal,-8.224454,39.399872
-83,Nigeria,Nigeria,8.675277,9.081999
-84,Canada GSC chicken B,United States,-95.712891,37.09024
-85,Taiwan TW,Taiwan,120.960515,23.69781
-86,Australia,Australia,133.775136,-25.274398
-87,Canada Ontario,"Ontario, Canada",-85.3232139,51.253775
-88,USA SD,"South Dakota, USA",-99.9018131,43.9695148
-89,USA Newark,"Newark, NJ, USA",-74.1723667,40.735657
-90,Russia,Russia,105.318756,61.52401
-91,Mongolia Ulgii,"Ulgii, Mongolia",89.968611,48.968333
-92,United Kingdom Sheffield,"Sheffield, South Yorkshire, UK",-1.470085,53.381129
-93,Indonesia East Java,"East Java, Republic of Indonesia",112.2384017,-7.5360639
-94,Hong Kong,Hong Kong,114.109497,22.396428
-95,Poland Warsaw,"Warsaw, Poland",21.0122287,52.2296756
-96,China Hubei,"Hubei, Luohu, Shenzhen, China, 518040",114.125215,22.544253
-97,USA North Carolina,"North Carolina, USA",-79.0192997,35.7595731
-98,Canada Quebec,"Quebec, Canada",-73.5491361,52.9399159
-99,Denmark,Denmark,9.501785,56.26392
-100,Philippines,Philippines,121.774017,12.879721
-101,Viet Nam ThaiBinh,"Thái Bình, Thai Binh, Vietnam",106.3365828,20.4463471
-102,USA Colorado,"Colorado, USA",-105.7820674,39.5500507
-103,Australia chicken,"Hen And Chicken Road, Bathurst NSW 2795, Australia",149.5236504,-33.4699692
-104,South Korea,South Korea,127.766922,35.907757
-105,Viet Nam Quang Ninh,"Quảng Ninh Province, Vietnam",107.2925144,21.006382
-106,Viet Nam TayNinh,"Bảo tàng Tây Ninh, Ba Mươi tháng Tư, Khu phố 1, Phường 3, tx. Tây Ninh, Tây Ninh, Vietnam",106.1007011,11.3197972
-107,Russia Reshoty,"Reshoty, Nizhnyaya Poyma, Krasnoyarskiy kray, Russia, 663841",97.206056,56.157288
-108,Russia Magadan,"Magadan Airport (GDX), Аэропорт Магадан, Magadan, Magadanskaya oblast', Russia, 685918",150.7291948,59.9120057
-109,USA New York,"New York, NY, USA",-74.0059413,40.7127837
-110,South Africa,South Africa,22.937506,-30.559482
-111,Lebanon,Lebanon,35.862285,33.854721
-112,Peru Lima,"Lima, Peru",-77.0427934,-12.046374
-113,USA New Jersey,"New Jersey, USA",-74.4056612,40.0583238
-114,China Guizhou,"Guizhou, China",106.70741,26.598194
-115,France OMS,"Oms, France",2.696445,42.543113
-116,Poland Wroclaw,"Wrocław, Poland",17.0385376,51.1078852
-117,Japan Hyogo,"Hyogo Prefecture, Japan",135.1830706,34.6912688
-118,Nepal,Nepal,84.124008,28.394857
-119,China Ya'an,"Ya'an, Sichuan, China",103.013261,29.980537
-120,Japan Osaka,"Osaka, Osaka Prefecture, Japan",135.5021651,34.6937378
-121,Germany Jena,"Jena, Germany",11.5892372,50.927054
-122,Peru Pucallpa,"Pucallpa, Peru",-74.5826166,-8.3928622
-123,Netherlands Rotterdam,"Rotterdam, Netherlands",4.4777325,51.9244201
-124,Canada SK,"Saskatchewan, Canada",-106.4508639,52.9399159
-125,Russia Primorje,"Primorsky Krai, Russia",135.0,45.0525641
-126,Germany Heudorf-Messkirch,"Heudorf, 88605 Meßkirch, Germany",9.073,47.994781
-127,China Hunan,"Hunan, China",112.98381,28.112449
-128,Mexico Durango,"Durango, Dgo., Mexico",-104.6531759,24.0277202
-129,Thailand Nakhonsawan,"Nakhon Sawan Airport, Klang Daet, Mueang Nakhon Sawan District, Nakhon Sawan 60000, Thailand",100.1371189,15.6690538
-130,Russia Volgograd,"Volgograd, Volgograd Oblast, Russia",44.516667,48.7
-131,Germany Bavaria,"Bavaria, Germany",11.4978895,48.7904472
-132,USA LA,"Louisiana, USA",-91.9623327,30.9842977
-133,Czech Republic Ostrava,"Ostrava, Czech Republic",18.2625243,49.8209226
-134,Hong Kong Jiangxi,"Hong Kong Garden, Lian Xiang Da Dao, Guangchang Xian, Fuzhou Shi, Jiangxi Sheng, China, 344900",116.323647,26.849726
-135,Japan Gifu-C,"Gifu, Gifu Prefecture, Japan",136.7606537,35.4232984
-136,Pakistan Rawalpindi,"Rawalpindi, Pakistan",73.0441352,33.598394
-137,Denmark Odense,"Odense, Denmark",10.40237,55.403756
-138,China Tianjin,"Tianjin, Tianjin, China",117.200983,39.084158
-139,Australia Tasmania,"Tasmania, Australia",146.6284905,-41.3650419
-140,USA Brownsville,"Brownsville, TX, USA",-97.4974838,25.9017472
-141,USA Southcentral Alaska,"Central, AK 99730, USA",-144.8030556,65.5725
-142,Netherlands common eider,United States,-95.712891,37.09024
-143,Thailand Bangkok,"Bangkok, Thailand",100.5017651,13.7563309
-144,Mexico,Mexico,-102.552784,23.634501
-145,Viet Nam DaNang,"Da Nang, Da Nang, Vietnam",108.2021667,16.0544068
-146,USA Wisconsin,"Wisconsin, USA",-88.7878678,43.7844397
-147,Germany Cloppenburg,"Cloppenburg, Germany",8.0530158,52.844198
-148,Germany Althausen,"Althausen, 97702 Münnerstadt, Germany",10.230344,50.247964
-149,USA Kansas,"Kansas, USA",-98.4842465,39.011902
-150,USA Interior Alaska,"US Department of the Interior, 3601 C Street # 1100, Anchorage, AK 99503, USA",-149.884474,61.18759
-151,Mexico Merida,"97139 Merida, Yucatan, Mexico",-89.5925857,20.9673702
-152,USA Dayton,"Dayton, OH, USA",-84.1916069,39.7589478
-153,Russia Krasnoozerskoe,"Krasnoyarsk, Krasnoyarsk Krai, Russia",92.8932476,56.0152834
-154,Mexico Yucatan,"Yucatan, Mexico",-89.0943377,20.7098786
-155,USA Tennessee,"Tennessee, USA",-86.5804473,35.5174913
-156,Canada Alberta,"Alberta, Canada",-116.5765035,53.9332706
-157,Japan Shiga,"Shiga Prefecture, Japan",135.8685899,35.0045306
-158,United Kingdom England,"England, UK",-1.1743197,52.3555177
-159,Viet Nam Ninh Binh,"Ninh Bình Province, Vietnam",105.92299,20.2129969
-160,Australia Cairns North,"Cairns North QLD 4870, Australia",145.7594332,-16.9063591
-161,China Liaoning,"Liaoning, China",123.431383,41.836175
-162,Indonesia Yogjakarta,"Yogyakarta City, Yogyakarta City, Special Region of Yogyakarta, Republic of Indonesia",110.3694896,-7.7955798
-163,Netherlands swine,United States,-95.712891,37.09024
-164,Saudi Arabia,Saudi Arabia,45.079162,23.885942
-165,China mallard,"Mallard Drive, Saint Clair, MI 48079, USA",-82.5063462,42.8275782
-166,Japan Miyazaki,"Miyazaki, Miyazaki Prefecture, Japan",131.4202411,31.9076736
-167,Russia Orenburg,"Orenburg, Orenburg Oblast, Russia",55.1004538,51.7666482
-168,Guatemala,Guatemala,-90.230759,15.783471
-169,Japan Fukuoka-C,"Fukuoka, Fukuoka Prefecture, Japan",130.4017155,33.5903547
-170,United Arab Emirates Emirates,Emirates - 35th Street - Dubai - United Arab Emirates,55.3658156,25.2410514
-171,Germany Duelmen,"Dülmen, Germany",7.2834926,51.8316451
-172,Spain,Spain,-3.74922,40.463667
-173,Canada Saskatchewan,"Saskatchewan, Canada",-106.4508639,52.9399159
-174,United Kingdom Headington,"Headington, Oxford, Oxford, UK",-1.1985742,51.7626463
-175,Colombia Medellin,"Medellín, Antioquia, Colombia",-75.590556,6.230833
-176,USA Brooklyn,"Brooklyn, NY, USA",-73.9441579,40.6781784
-177,China Xianghai,"Xianghai, Tongyu, Baicheng, Jilin, China",122.349124,45.025937
-178,China Guangxi,"Guangxi, China",108.327546,22.815478
-179,Japan Kyoto,"Kyoto, Kyoto Prefecture, Japan",135.7680294,35.0116363
-180,USA Nevada,"Nevada, USA",-116.419389,38.8026097
-181,Australia Canberra,"Canberra ACT 2601, Australia",149.1286843,-35.2819998
-182,Myanmar Pyigyitagon,"Pyigyitagon, Mandalay, Republic of the Union of Myanmar",96.1049958,21.9048038
-183,Canada Canada-MB,"Manitoba, Canada",-98.8138763,53.7608608
-184,Egypt El Fayoum,"Faiyum, Qesm Al Fayoum, Al Fayoum, Faiyum Governorate, Egypt",30.8428497,29.3084021
-185,USA Great Lakes,The Great Lakes,-82.4846115,45.0522366
-186,Germany Bochum,"Bochum, Germany",7.2162363,51.4818445
-187,India,India,78.96288,20.593684
-188,USA Baylor,"Baylor, MT 59230, USA",-106.4794775,48.6633585
-189,USA Maryland,"Maryland, USA",-76.6412712,39.0457549
-190,USA PA,"Pennsylvania, USA",-77.1945247,41.2033216
-191,Viet Nam HaNoi,"Hanoi, Hoàn Kiếm, Hanoi, Vietnam",105.8341598,21.0277644
-192,Viet Nam NamDinh,"Ga Nam Định, Lương Thế Vinh, tp. Nam Định, Nam Định, Vietnam",106.1640668,20.4217815
-193,USA Virginia,"Virginia, USA",-78.6568942,37.4315734
-194,Germany Warendorf,"Warendorf, Germany",7.9908987,51.9538685
-195,Russia Vladivistok,"Vladivostok, Primorsky Krai, Russia",131.9,43.133333
-196,Japan Aichi,"Aichi Prefecture, Japan",136.9065647,35.1801883
-197,China HuNan,"Hunan, China",112.98381,28.112449
-198,Germany Altenberge,"Altenberge, Germany",7.4699315,52.0468114
-199,Poland Lutol,"Lutol, Poland",15.0088679,51.8142492
-200,Mongolia,Mongolia,103.846656,46.862496
-201,Japan Hokkaido,"Hokkaido, Takinouegenya, Takinoue, Monbetsu District, Hokkaido Prefecture 099-5600, Japan",143.0,44.0
-202,Peru,Peru,-75.015152,-9.189967
-203,China Guangdong,"Guangdong, China",113.266531,23.132191
-204,Czech Republic Brno,"Brno, Czech Republic",16.6068371,49.1950602
-205,USA California,"California, USA",-119.4179324,36.778261
-206,Russia Tula,"Tula, Tula Oblast, Russia",37.6184915,54.204836
-207,Canada Canada-QC,"Quebec, Canada",-73.5491361,52.9399159
-208,Canada ALB,"University of Alberta, 116 St, Edmonton, AB T6G 2R3",-113.5263186,53.5232189
-209,China,China,104.195397,35.86166
-210,USA Boston,"Boston, MA, USA",-71.0588801,42.3600825
-211,Japan Aomori,"Aomori, Aomori Prefecture, Japan",140.7473647,40.822072
-212,Russia Perm,"Perm, Perm Krai, Russia",56.316667,58.0
-213,China ZhaLong,"Shi Zha Long Duan, Jianshui Xian, Honghe Hanizuyizuzizhizhou, Yunnan Sheng, China",102.8363634,23.4212497
-214,USA VA,"Virginia, USA",-78.6568942,37.4315734
-215,Viet Nam Vietnam,Vietnam,108.277199,14.058324
-216,USA Connecticut,"Connecticut, USA",-73.087749,41.6032207
-217,USA Delaware Bay,"Delaware Bay, United States",-75.2479061,39.1201705
-218,Germany Freren,"Freren, Germany",7.5441079,52.4869927
-219,Russia Rostov,"Rostov-on-Don, Rostov Oblast, Russia",39.7,47.233333
-220,Indonesia,Republic of Indonesia,113.921327,-0.789275
-221,Japan Yokohama,"Yokohama, Kanagawa Prefecture, Japan",139.6380256,35.4437078
-222,USA MI,"Michigan, USA",-85.6023643,44.3148443
-223,USA South Central Alaska,"Central, AK 99730, USA",-144.8030556,65.5725
-224,Thailand Sukhothai,"Sukhothai, Thailand",99.8263712,17.0055573
-225,Poland,Poland,19.145136,51.919438
-226,Japan Hiroshima,"Hiroshima, Hiroshima Prefecture, Japan",132.4552927,34.3852029
-227,USA Memphis,"Memphis, TN, USA",-90.0489801,35.1495343
-228,Russia Astrakhan,"Astrakhan, Astrakhan Oblast, Russia",48.0599345,46.3588045
-229,Japan Himeji,"Himeji, Hyogo Prefecture, Japan",134.6853528,34.815149
-230,Germany Frankfurt,"Frankfurt, Germany",8.6821267,50.1109221
-231,China Yangzhou,"Yangzhou, Jiangsu, China",119.412966,32.39421
-232,Japan Shizuoka-C,"Shizuoka, Shizuoka Prefecture, Japan",138.3827596,34.975562
-233,Uganda,Uganda,32.290275,1.373333
-234,India Tripura,"Tripura, India",91.9881527,23.9408482
-235,Hungary,Hungary,19.503304,47.162494
-236,Argentina Cordoba,"Córdoba, Cordoba, Argentina",-64.1821289,-31.3989296
-237,Brazil,Brazil,-51.92528,-14.235004
-238,Canada AB,"Alberta, Canada",-116.5765035,53.9332706
-239,India Sikkim,"Sikkim, India",88.5122178,27.5329718
-240,Japan Wakayama,"Wakayama, Wakayama Prefecture, Japan",135.1708083,34.2305113
-241,China Sheny,United States,-95.712891,37.09024
-242,Viet Nam KhanhHoa,"Khánh Hòa Museum, Trần Phú, Xương Huân, tp. Nha Trang, Khánh Hoà, Vietnam",109.196,12.2499
-243,Germany Wettringen,"Wettringen, Germany",7.3163421,52.2095347
-244,Russia Suzdalka,"Suzdalka, Novosibirskaya oblast', Russia, 632457",79.4623653,54.5876514
-245,Thailand Phichit,"Phichit, Thailand",100.3346991,16.2740876
-246,El Salvador San Salvador,"San Salvador, El Salvador",-89.2181911,13.6929403
-247,Spain Madrid,"Madrid, Madrid, Spain",-3.7037902,40.4167754
-248,China Wenzhou,"Wenzhou, Zhejiang, China",120.699367,27.994267
-249,Iran,Iran,53.688046,32.427908
-250,USA Alaska,"Alaska, USA",-149.4936733,64.2008413
-251,Greece Athens,"Athens, Greece",23.7293599,37.983917
-252,Australia Victoria,"Victoria, Australia",144.7851531,-37.4713077
-253,China Shantou,"Shantou, Guangdong, China",116.681972,23.354091
-254,Belgium,Belgium,4.469936,50.503887
-255,Viet Nam Hue,"tp. Huế, Thừa Thiên Huế, Vietnam",107.5623501,16.4498
-256,Thailand Phathumthani,"Pathum Thani, Thailand",100.5250276,14.0208391
-257,Japan Kagoshima,"Kagoshima, Kagoshima Prefecture, Japan",130.5571158,31.5965535
-258,Germany Papenburg,"Papenburg, Germany",7.4232678,53.0726142
-259,Finland Helsinki,"00100 Helsinki, Finland",24.9410248,60.1733244
-260,Egypt Giza,"Giza, Al Omraneyah, Giza Governorate, Egypt",31.2088526,30.0130557
-261,Lebanon Tennessee,"Lebanon, TN, USA",-86.2911024,36.2081098
-262,USA Massachusetts,"Massachusetts, USA",-71.3824374,42.4072107
-263,Myanmar Thanatpin,"Thanatpin, Republic of the Union of Myanmar",96.58,17.294167
-264,Germany Neumarkt,"Neumarkt in der Oberpfalz, Germany",11.4671996,49.2772606
-265,Japan Oita,"Oita, Oita Prefecture, Japan",131.609272,33.2395578
-266,USA Vermont,"Vermont, USA",-72.5778415,44.5588028
-267,Pakistan Sihala,"Sihala, Pakistan",73.1969108,33.5440724
-268,Thailand Nakhon Pathom,"Nakhon Pathom, Thailand",100.0621676,13.8199206
-269,India Rtng,"Sant Shree Punit Trust Dispensary 1 rating |Rate this, Lamington Road, Grant Road East, Shapur Baug, Grant Road, Mumbai, Maharashtra 400007, India",72.8170127,18.9598573
-270,China Qinghai,"Qinghai, China",101.780251,36.620938
-271,Iraq,Iraq,43.679291,33.223191
-272,Viet Nam BacGiang,"Tp Bac Giang, Hoàng Văn Thụ, Bắc Giang, Vietnam",106.2150069,21.2868605
-273,Canada British Columbia,"British Columbia, Canada",-127.6476206,53.7266683
-274,USA Atlanta,"Atlanta, GA, USA",-84.3879824,33.7489954
-275,Viet Nam Hau Giang,"Hau Giang, Vietnam",105.6412527,9.757898
-276,Germany Doetlingen,"Dötlingen, Germany",8.3822783,52.9361745
-277,Mongolia Ulaanbaatar,"Ulaanbaatar, Mongolia",106.92,47.92
-278,USA IA,"Iowa, USA",-93.097702,41.8780025
-279,China North China,China,104.195397,35.86166
-280,Canada MB,"Manitoba, Canada",-98.8138763,53.7608608
-281,Viet Nam Hai Duong,"Hai Duong, Vietnam",106.3206861,20.9385958
-282,Nicaragua,Nicaragua,-85.207229,12.865416
-283,Philippines Phillipines,Philippines,121.774017,12.879721
-284,Thailand Chachoengsao,"Chachoengsao, Thailand",101.0779596,13.6904194
-285,Russia Krasnodar,"Krasnodar, Krasnodar Krai, Russia",38.966667,45.033333
-286,Indonesia East Kalimantan,"East Kalimantan, Republic of Indonesia",116.419389,0.5386586
-287,Japan Gunma,"Gunma Prefecture, Japan",139.0604061,36.3906675
-288,Australia Perth,"Perth WA, Australia",115.8570471,-31.9535132
-289,Russia Lipetsk,"Lipetsk, Lipetsk Oblast, Russia",39.5981225,52.6121996
-290,Iceland,Iceland,-19.020835,64.963051
-291,China Chibi,"Chibi, Xianning, Hubei, China",113.900628,29.724692
-292,Russia Yaroslavl,"Yaroslavl, Yaroslavl Oblast, Russia",39.8844708,57.6260744
-293,Netherlands Enschede,"Enschede, Netherlands",6.8936619,52.2215372
-294,Denmark Hvidovre,"2650 Hvidovre, Denmark",12.475386,55.642522
-295,Germany,Germany,10.451526,51.165691
-296,Japan Amagasaki,"Amagasaki, Hyogo Prefecture, Japan",135.4063757,34.7337339
-297,Italy Siena,"Siena-Ampugnano Airport (SAY), Località Ampugnano, 53018 Sovicille SI, Italy",11.254167,43.257221
-298,China Eastern China,"Dong Bu Kuai Su Lu, Erdao Qu, Changchun Shi, Jilin Sheng, China",125.3764691,43.8854996
-299,Kyrgyzstan,Kyrgyzstan,74.766098,41.20438
-300,Russia Moscow,"Moscow, Russia",37.6173,55.755826
-301,Viet Nam BacNinh,"Ga Bắc Ninh, tp. Bắc Ninh, Bắc Ninh, Vietnam",106.0562396,21.1783743
-302,Australia AUS,Australia,133.775136,-25.274398
-303,Sweden Stockholm,"Stockholm, Sweden",18.0685808,59.3293235
-304,Australia Darlinghurst,"Darlinghurst NSW, Australia",151.2186198,-33.8806799
-305,Viet Nam Nam Dinh,"Nam Dinh, Vietnam",106.2051484,20.2791804
-306,Austria Vienna,"Vienna, Austria",16.3738189,48.2081743
-307,Germany Saerbeck,"Saerbeck, Germany",7.6313899,52.1747613
-308,USA Maine,"Maine, USA",-69.4454689,45.253783
-309,USA Missouri,"Missouri, USA",-91.8318334,37.9642529
-310,Egypt,Egypt,30.802498,26.820553
-311,France Lyon,"Lyon, France",4.835659,45.764043
-312,USA Springfield,"Springfield, MA, USA",-72.589811,42.1014831
-313,Mexico Mexico City,"Mexico City, Federal District, Mexico",-99.133208,19.4326077
-314,New Zealand Canterbury,"Canterbury, New Zealand",171.1637245,-43.7542275
-315,China SanJiang,"Sanjiang, Liuzhou, Guangxi, China",109.607682,25.783191
-316,France Marquenterre,"Rond-Point du Marquenterre, 62600 Berck, France",1.5931167,50.4022747
-317,USA TX,"Texas, USA",-99.9018131,31.9685988
-318,Thailand Suphanburi,"Suphan Buri, Thailand",100.1177128,14.4744892
-319,Switzerland Geneva,"Geneva, Switzerland",6.1422961,46.1983922
-320,USA Kentucky,"Kentucky, USA",-84.2700179,37.8393332
-321,Russia Omsk,"Omsk, Omsk Oblast, Russia",73.366667,54.983333
-322,China Zhejiang-Yiwu,"Yiwu, Jinhua, Zhejiang, China",120.075058,29.306841
-323,China Anhui,"Anhui, China",117.284923,31.861184
-324,USA Pensacola,"Pensacola, FL, USA",-87.2169149,30.421309
-325,Nicaragua Managua,"Managua, Nicaragua",-86.251389,12.136389
-326,China Shanghai,"Shanghai, Shanghai, China",121.473701,31.230416
-327,Italy Pavia,"Pavia PV, Italy",9.1582069,45.1847248
-328,France Ille et Vilaine,"Ille-et-Vilaine, France",-1.5300695,48.2292016
-329,USA Los Angeles,"Los Angeles, CA, USA",-118.2436849,34.0522342
-330,USA FL,"Florida, USA",-81.5157535,27.6648274
-331,New Zealand West Coast,"West Coast, New Zealand",171.6911559,-42.4064185
-332,Russia Kurgan,"Kurgan, Kurgan Oblast, Russia",65.35,55.466667
-333,China Zhenjiang,"Zhenjiang, Jiangsu, China",119.425836,32.187849
-334,South Korea wild duck,United States,-95.712891,37.09024
-335,USA Wyoming,"Wyoming, USA",-107.2902839,43.0759678
-336,Canada Canada-NS,"Nova Scotia, Canada",-63.744311,44.6819866
-337,New Zealand Bay of Plenty,"Bay Of Plenty, New Zealand",176.1880232,-37.6825027
-338,USA New Bern,"New Bern, NC, USA",-77.0441143,35.108493
-339,China Harbin,"Harbin, Heilongjiang, China",126.534967,45.803775
-340,China Jiangxi,"Jiangxi, China",115.909228,28.675697
-341,Netherlands,Netherlands,5.291266,52.132633
-342,Indonesia North Sumatra,"North Sumatra, Republic of Indonesia",98.9784887,2.0108563
-343,Viet Nam Binh Doung,"Binh Duong, Vietnam",106.477017,11.3254024
-344,Japan Akita,"Akita, Akita Prefecture, Japan",140.1025642,39.7200079
-345,China Jilin,"Jilin, Jilin, China",126.549572,43.837883
-346,China Huabei,"Hua Bei Lu, Dalian Shi, Liaoning Sheng, China",121.5689759,38.9792398
-347,Netherlands Bilthoven,"Bilthoven, Netherlands",5.2103806,52.1365344
-348,USA Texas,"Texas, USA",-99.9018131,31.9685988
-349,Russia Primorie,"Primorsky Krai, Russia",135.0,45.0525641
-350,Italy Roma,"Rome, Italy",12.4963655,41.9027835
-351,Australia Brisbane,"Brisbane QLD, Australia",153.0234489,-27.4710107
-352,Germany Moeglingen,"Möglingen, Germany",9.1317484,48.8893094
-353,Canada Nova Scotia,"Nova Scotia, Canada",-63.744311,44.6819866
-354,New Zealand Ashburton,"Ashburton, New Zealand",171.7485672,-43.9083813
-355,Viet Nam HungYen,"Lê Hùng Yên, tt. Cần Thạnh, Cần Giờ, Hồ Chí Minh, Vietnam",106.9574881,10.4061855
-356,USA MD,"Maryland, USA",-76.6412712,39.0457549
-357,Germany Berlin,"Berlin, Germany",13.404954,52.5200066
-358,Russia Domodedovo,"Domodedovo, Moscow Oblast, Russia",37.747817,55.4430234
-359,USA MO,"Missouri, USA",-91.8318334,37.9642529
-360,USA MN,"Minnesota, USA",-94.6858998,46.729553
-361,Afghanistan,Afghanistan,67.709953,33.93911
-362,USA Rhode Island,"Rhode Island, USA",-71.4774291,41.5800945
-363,Viet Nam Soc Trang,"Soc Trang, Vietnam",105.9599539,9.6003688
-364,Germany Tornitz,"Tornitz, Germany",11.8478546,51.9302587
-365,Denmark Aalborg,"Aalborg, Denmark",9.921747,57.0488195
-366,France,France,2.213749,46.227638
-367,USA Craven,"Craven, SD 57451, USA",-98.9251084,45.4421975
-368,United Kingdom Christ's Hospital,"Christs Hospital, Horsham, West Sussex RH13, UK",-0.3623769,51.0461792
-369,USA Iowa,"Iowa, USA",-93.097702,41.8780025
-370,Australia Bunbury,"Bunbury WA 6230, Australia",115.6391736,-33.3270685
-371,China Suzhou,"Suzhou, Jiangsu, China",120.585297,31.298974
-372,France StEtienne,"Saint-Étienne, France",4.3871779,45.439695
-373,China Huadong,"Hua Dong Lu, Pudong Xinqu, Shanghai Shi, China",121.6738024,31.230418
-374,Thailand Chonburi,"Chon Buri, Thailand",100.9846717,13.3611431
-375,Russia St. Petersburg,"Saint Petersburg, Russia",30.3350986,59.9342802
-376,China Heilongjiang,"Heilongjiang, China",126.661665,45.742367
-377,Germany Niederwinden,"Niederwinden, 74585 Rot am See, Germany",10.0407304,49.2377342
-378,USA Indiana,"Indiana, USA",-86.1349019,40.2671941
-379,Germany Wurzburg,"Würzburg, Germany",9.9533548,49.7913044
-380,Germany Lohne,"Löhne, Germany",8.7220862,52.1941419
-381,Norway Oslo,"Oslo, Norway",10.7522454,59.9138688
-382,USA Cherry Point,"Marine Corps Air Station Cherry Point, NC, USA",-76.8967043,34.9032325
-383,USA Washington,"Washington, DC, USA",-77.0368707,38.9071923
-384,Japan Sapporo,"Sapporo, Hokkaido Prefecture, Japan",141.3543763,43.0620958
-385,Belgium Antwerp,"Antwerp, Belgium",4.4024643,51.2194475
-386,Japan Shimane,"Shimane Prefecture, Japan",133.0504997,35.4722952
-387,Netherlands Amsterdam,"Amsterdam, Netherlands",4.8951679,52.3702157
-388,Dominican Republic Santo Domingo,"Santo Domingo, Dominican Republic",-69.95,18.466667
-389,Malaysia,Malaysia,101.975766,4.210484
-390,China Shaanxi,"Shaanxi, China",108.954239,34.265472
-391,USA Minnesota,"Minnesota, USA",-94.6858998,46.729553
-392,USA Chicago,"Chicago, IL, USA",-87.6297982,41.8781136
-393,Taiwan Taipei,"Taipei, Taiwan",121.5654177,25.0329694
-394,Germany Munich,"Munich, Germany",11.5819806,48.1351253
-395,USA Alabama,"Alabama, USA",-86.902298,32.3182314
-396,Australia Queensland,"Queensland, Australia",142.7027956,-20.9175738
-397,Japan Kobe,"Kobe, Hyogo Prefecture, Japan",135.1955112,34.690083
-398,China Nanchang,"Nanchang, Jiangxi, China",115.858198,28.682892
-399,Luxembourg,Luxembourg,6.129583,49.815273
-400,Viet Nam Ha Nam,"Hà Nam Province, Vietnam",105.92299,20.5835196
-401,France Ploufragan,"Ploufragan, France",-2.794373,48.488781
-402,Russia Vladimir,"Vladimir, Vladimir Oblast, Russia",40.4178686,56.1445956
-403,Myanmar Kyaing Tong,"Kyaing Tong Street, Yangon, Republic of the Union of Myanmar",96.218997,16.8357277
-404,-N/A- St.Petersburg,"Saint Petersburg, Russia",30.3350986,59.9342802
-405,Viet Nam LangSon,"Lang Son Province, Vietnam",106.6291304,21.8563705
-406,Slovenia,Slovenia,14.995463,46.151241
-407,Taiwan Kingmen,"Quemoy, Jinhu Township, 891",118.3761111,24.4458333
-408,Germany Heinersdorf,"Heinersdorf, Großbeeren, Germany",13.326578,52.3892587
-409,Russia Novosibirsk,"Novosibirsk, Novosibirsk Oblast, Russia",82.9357327,55.0083526
-410,Laos Lao,Laos,102.495496,19.85627
-411,Thailand,Thailand,100.992541,15.870032
-412,Russia Joshkar-Ola,"Yoshkar-Ola, Mari El Republic, Russia",47.866667,56.633333
-413,USA Idaho,"Idaho, USA",-114.7420408,44.0682019
-414,Georgia,"Georgia, USA",-82.9000751,32.1656221
-415,China Changchun,"Changchun, Jilin, China",125.323544,43.817072
-416,China Ningxia,"Ningxia, China",106.258754,38.471318
-417,Nigeria NIGERIA,Nigeria,8.675277,9.081999
-418,New Zealand Wellington,"Wellington, New Zealand",174.776236,-41.2864603
-419,Australia Melbourne,"Melbourne VIC, Australia",144.96328,-37.814107
-420,USA Oregon,"Oregon, USA",-120.5542012,43.8041334
-421,Bolivia Santa Cruz,"Santa Cruz de la Sierra, Bolivia",-63.0,-17.866667
-422,Turkey Ankara,"Ankara/Ankara Province, Turkey",32.85411,39.92077
-423,China Hebei,"Hebei, China",114.468665,38.037057
-424,USA New Mexico,"New Mexico, USA",-105.8700901,34.5199402
-425,Indonesia West Java,"West Java, Republic of Indonesia",107.668887,-7.090911
-426,Italy Genoa,"Genoa, Italy",8.946256,44.4056499
-427,Japan Osaka-C,"Osaka, Osaka Prefecture, Japan",135.5021651,34.6937378
-428,Japan kumamoto,"Kumamoto, Kumamoto Prefecture, Japan",130.7078911,32.8031004
-429,China Shandong,"Shandong, China",117.020359,36.66853
-430,Japan Utsunomiya,"Utsunomiya, Tochigi Prefecture, Japan",139.8828072,36.5551124
-431,Japan swine,United States,-95.712891,37.09024
-432,Taiwan,Taiwan,120.960515,23.69781
-433,Japan Iwate,"Iwate Prefecture, Japan",141.1526839,39.7036194
-434,Egypt Sharkia,"Ash Sharqia Governorate, Egypt",31.7195459,30.7326622
-435,Qatar,Qatar,51.183884,25.354826
-436,Japan Tokushima,"Tokushima, Tokushima Prefecture, Japan",134.5548438,34.0702703
-437,Italy,Italy,12.56738,41.87194
-438,Sudan,Sudan,30.217636,12.862807
-439,Mexico Mexico city,"Mexico City, Federal District, Mexico",-99.133208,19.4326077
-440,USA Montana,"Montana, USA",-110.3625658,46.8796822
-441,Mexico Puebla,"Puebla, Puebla, Mexico",-98.2061996,19.0412967
-442,Canada New Brunswick,"New Brunswick, Canada",-66.4619164,46.5653163
-443,China Sichuan,"Sichuan, China",104.075931,30.651652
-444,Russia Tyva,"Tyva, Arkhangelskaya oblast', Russia, 165740",48.6956849,61.8079151
-445,Russia Siberia,Siberia,99.1966559,61.0137097
-446,Thailand Ratchaburi,"Ratchaburi, Thailand",99.8134211,13.5282893
-447,Japan Tochigi,"Tochigi Prefecture, Japan",139.8835651,36.565725
-448,Russia Chita,"Chita, Zabaykalsky Krai, Russia",113.466667,52.05
-449,Israel,Israel,34.851612,31.046051
-450,USA West Virginia,"West Virginia, USA",-80.4549026,38.5976262
-451,Japan Nagasaki,"Nagasaki, Nagasaki Prefecture, Japan",129.877667,32.7502856
-452,Germany Hamburg,"Hamburg, Germany",9.9936818,53.5510846
-453,Australia South Austalia,"South Australia, Australia",136.2091547,-30.0002315
-454,USA Silver Spring,"Silver Spring, MD, USA",-77.026088,38.9906657
-455,USA Utah,"Utah, USA",-111.0937311,39.3209801
-456,Germany Ankum-Stockum,"Stockum(Ankum) Niemann, 49577 Ankum, Germany",7.912311,52.531
-457,Viet Nam Son La,"Son La, Vietnam",103.7289167,21.1022284
-458,Netherlands Nijmegen,"Nijmegen, Netherlands",5.8372264,51.8125626
-459,USA Gainesville,"Gainesville, FL, USA",-82.3248262,29.6516344
-460,Viet Nam Ha Tay,"Hà Tây, tp. Kon Tum, Gia Lai, Vietnam",108.1191501,14.2959702
-461,USA San Diego,"San Diego, CA, USA",-117.1610838,32.715738
-462,USA Bronx,"Bronx County, NY, USA",-73.8654295,40.8370495
-463,United Kingdom Northern Ireland,"Northern Ireland, UK",-6.4923145,54.7877149
-464,Myanmar Hmawbi,"Hmawbi, Republic of the Union of Myanmar",96.0097018,17.1361597
-465,Senegal Dakar,"Dakar, Senegal",-17.3660286,14.7645042
-466,United Kingdom Scotland,"Scotland, UK",-4.2026458,56.4906712
-467,Egypt Qalubia,"Al Qalyubia Governorate, Egypt",31.2168466,30.3292368
-468,Indonesia Bali,"Bali, Republic of Indonesia",115.188916,-8.4095178
-469,USA CA,"California, USA",-119.4179324,36.778261
-470,Mexico Jalisco,"Jalisco, Mexico",-103.3494376,20.6595382
-471,India Vadu,"Vadu, Gujarat 382705, India",72.4953398,23.3604178
-472,Canada Manitoba,"Manitoba, Canada",-98.8138763,53.7608608
-473,United Kingdom,United Kingdom,-3.435973,55.378051
-474,Mexico Coahuila,"Coahuila, Mexico",-101.7068294,27.058676
-475,Japan Ibaraki,"Ibaraki Prefecture, Japan",140.4467935,36.3418112
-476,Zambia,Zambia,27.849332,-13.133897
-477,China Beijing,"Beijing, Beijing, China",116.407395,39.904211
-478,China Shanxi,"Shanxi, China",112.562398,37.873532
-479,Viet Nam HoaBinh,"cầu Hòa Bình, Đông Hoà, tp. Thái Bình, Thái Bình, Vietnam",106.3367203,20.477229
-480,China Zhoushan,"Zhoushan, Zhejiang, China",122.207216,29.985295
-481,Russia Altai,"Altai Krai, Russia",82.6758596,51.7936298
-482,Cambodia,Cambodia,104.990963,12.565679
-483,USA Ft.Benning,"Fort Benning, Cusseta, GA 31905, USA",-84.9688191,32.3523691
-484,China Fujian,"Fujian, China",119.295144,26.10078
-485,USA South Carolina,"South Carolina, USA",-81.1637245,33.836081
-486,Argentina,Argentina,-63.616672,-38.416097
-487,Belgium Brussels,"Brussels, Belgium",4.3517103,50.8503396
-488,USA Bethesda,"Bethesda, MD, USA",-77.0947092,38.984652
-489,USA NY,"New York, NY, USA",-74.0059413,40.7127837
-490,Canada Toronto,"Toronto, ON, Canada",-79.3831843,43.653226
-491,Australia South Australia,"South Australia, Australia",136.2091547,-30.0002315
-492,Canada QC,"Quebec, Canada",-73.5491361,52.9399159
-493,South Africa Johannesburg,"Johannesburg, South Africa",28.0473051,-26.2041028
-494,Japan Niigata,"Niigata, Niigata Prefecture, Japan",139.0364126,37.9161924
-495,Japan Fukushima,"Fukushima, Fukushima Prefecture, Japan",140.4747282,37.7608337
-496,France Paris,"Paris, France",2.3522219,48.856614
-497,USA NJ,"New Jersey, USA",-74.4056612,40.0583238
-498,Japan Kawasaki,"Kawasaki, Kanagawa Prefecture, Japan",139.7030511,35.5309058
-499,Thailand Kalasin,"Kalasin, Mueang Kalasin District, Kalasin 46000, Thailand",103.509167,16.434167
-500,USA Michigan,"Michigan, USA",-85.6023643,44.3148443
-501,USA NC,"North Carolina, USA",-79.0192997,35.7595731
-502,New Zealand Waikato,"Waikato, New Zealand",175.4375574,-38.0594263
-503,China Yunnan,"Yunnan, China",102.710002,25.045806
-504,China Shijiazhuang,"Shijiazhuang, Hebei, China",114.51486,38.042307
-505,New Zealand,New Zealand,174.885971,-40.900557
-506,Spain Terrassa,"Terrassa, Barcelona, Spain",2.0088747,41.563211
-507,Pakistan,Pakistan,69.345116,30.375321
-508,Egypt Menofia,"Menofia Governorate, Egypt",30.9876321,30.5972455
-509,Russia Arkhangelsk,"Arkhangelsk, Arkhangelsk Oblast, Russia",40.5601553,64.5472507
-510,Guam,Guam,144.793731,13.444304
-511,Viet Nam,Vietnam,108.277199,14.058324
-512,Mexico Chis,"Chiapas, Mexico",-93.1292353,16.7569318
-513,India INDIA,India,78.96288,20.593684
-514,Bangladesh,Bangladesh,90.356331,23.684994
-515,China San Jiang,"Sanjiang, Liuzhou, Guangxi, China",109.607682,25.783191
-516,India West Bengal,"West Bengal, India",87.8549755,22.9867569
-517,Laos,Laos,102.495496,19.85627
-518,USA Oklahoma,"Oklahoma City, OK, USA",-97.5164276,35.4675602
-519,USA Arizona,"Arizona, USA",-111.0937311,34.0489281
-520,Thailand Udon Thani,"Udon Thani, Thailand",102.7872325,17.4138413
-521,Japan Sendai,"Sendai, Miyagi Prefecture, Japan",140.8693558,38.268215
-522,Singapore,Singapore,103.819836,1.352083
-523,Australia Western Australia,"Western Australia, Australia",121.6283098,-27.6728168
-524,Japan Narita,"Narita, Chiba Prefecture, Japan",140.3187806,35.7766076
-525,USA Louisiana,"Louisiana, USA",-91.9623327,30.9842977
-526,China Jangsu,"Jiangsu, China",118.763232,32.061707
-527,Thailand Angthong,"Ang Thong, Thailand",100.455052,14.5896054
-528,USA Pennsylvania,"Pennsylvania, USA",-77.1945247,41.2033216
-529,Mexico Veracruz,"Heroica Veracruz, Veracruz, Mexico",-96.1342241,19.173773
-530,Japan Mie,"Mie Prefecture, Japan",136.5085883,34.7302829
-531,Japan Kumamoto,"Kumamoto, Kumamoto Prefecture, Japan",130.7078911,32.8031004
-532,Sweden,Sweden,18.643501,60.128161
-533,Hungary Budapest,"Budapest, Hungary",19.040235,47.497912
-534,China Wuxi,"Wuxi, Jiangsu, China",120.31191,31.49117
-535,Australia starling,"Starling Road, Officer VIC 3809, Australia",145.416128,-38.0550244
-536,Australia Sydney,"Sydney NSW, Australia",151.2069902,-33.8674869
-537,Russia Vladivostok,"Vladivostok, Primorsky Krai, Russia",131.9,43.133333
-538,Viet Nam Cao Bang,"Cao Bang, Vietnam",106.2522143,22.635689
-539,USA GA,"Georgia, USA",-82.9000751,32.1656221
-540,Canada Canada-ON,"Ontario, Canada",-85.3232139,51.253775
-541,Poland Bieganow,"Bieganów, Poland",20.4927442,52.0451517
-542,Austria,Austria,14.550072,47.516231
-543,USA mallard.Maryland,"Mallard Lane, Lothian, MD 20711, USA",-76.6835091,38.7616177
-544,Cote dIvoire Ivory Coast,Côte d'Ivoire,-5.54708,7.539989
-545,Viet Nam HaNam,"đảo Hà Nam, tx. Quảng Yên, Vietnam",106.8060388,20.902393
-546,Japan,Japan,138.252924,36.204824
-547,Indonesia South Kalimantan,"South Kalimantan, Republic of Indonesia",115.2837585,-3.0926415
-548,USA Santa Fe,"Santa Fe, NM, USA",-105.937799,35.6869752
-549,China Jiangsu,"Jiangsu, China",118.763232,32.061707
-550,China Gansu,"Gansu, China",103.826447,36.059561
-551,Japan Yamaguchi,"Yamaguchi, Yamaguchi Prefecture, Japan",131.4737269,34.178496
-552,Thailand Uthaithani,"Uthai Thani, Thailand",100.0245527,15.3835001
-553,Russia Nizhnii Novgorod,"Nizhniy Novgorod, Nizhny Novgorod Oblast, Russia",43.9360589,56.2965039
-554,Japan Tokyo,"Tokyo, Japan",139.7319925,35.7090259
-555,USA Delaware,"Delaware, USA",-75.5276699,38.9108325
-556,China HuBei,"Hubei, Luohu, Shenzhen, China, 518040",114.125215,22.544253
-557,Germany Ebbinghof,"Ebbinghof, 57392 Schmallenberg, Germany",8.2858971,51.1799815
-558,China Hei Longjiang,"Heilongjiang, China",126.661665,45.742367
-559,-N/A- Indonesia,Republic of Indonesia,113.921327,-0.789275
-560,Canada Canada-SK,"Saskatchewan, Canada",-106.4508639,52.9399159
-561,Viet Nam HoChiMinh,"Tan Son Nhat International Airport, Ho Chi Minh, Vietnam",106.6588245,10.8184631
-562,Chile,Chile,-71.542969,-35.675147
-563,USA Illinois,"Illinois, USA",-89.3985283,40.6331249
-564,Canada chicken,"Chicken, AK, USA",-141.9361111,64.0733333
-565,Canada Canada-AB,"Alberta, Canada",-116.5765035,53.9332706
-566,China Xuzhou,"Xuzhou, Jiangsu, China",117.284124,34.205768
-567,USA Mississippi,"Mississippi, USA",-89.3985283,32.3546679
-568,Thailand Khon Kaen,"Khon Kaen Airport (KKC), Sila, Mueang Khon Kaen District, Khon Kaen 40000, Thailand",102.7867966,16.4651045
-569,New Zealand Dunedin,"Dunedin, New Zealand",170.5027976,-45.8787605
-570,Germany Albersloh,"Albersloh, 48324 Sendenhorst, Germany",7.733318,51.868518
-571,Netherlands Tilburg,"Tilburg, Netherlands",5.0919143,51.560596
-572,Japan Yamagata,"Yamagata, Yamagata Prefecture, Japan",140.3396017,38.2554388
-573,Viet Nam Lang Son,"Lang Son Province, Vietnam",106.6291304,21.8563705
-574,Japan Sakai,"Sakai, Osaka Prefecture, Japan",135.482998,34.573262
-575,Croatia,Croatia,15.2,45.1
-576,Switzerland,Switzerland,8.227512,46.818188
-577,Chile Santiago,"Santiago, Santiago Metropolitan Region, Chile",-70.641997,-33.4691199
-578,Japan Okinawa,"Okinawa Prefecture, Japan",127.6809317,26.2124013
-579,Canada GSC chicken,United States,-95.712891,37.09024
-580,New Zealand Tairawhiti,"Tairawhiti Street, Ratana 4581, New Zealand",175.1763854,-40.0397221
-581,USA Ohio,"Ohio, USA",-82.907123,40.4172871
-582,USA swine,"Swine Building, Town Hill Road, Terryville, CT 06786, USA",-73.0202927,41.6678341
-583,France Finnistere,"Finistere, France",-3.9300525,48.2520249
-584,United Kingdom Guildford,"Guildford, Guildford, Surrey, UK",-0.570409,51.23622
-585,Viet Nam Long An,"tp. Tân An, Long An, Vietnam",106.4052541,10.5330098
-586,Russia Cygnus olor,United States,-95.712891,37.09024
-587,Denmark Copenhagen,"Copenhagen, Denmark",12.5683371,55.6760968
-588,New Zealand Whanganui,"Whanganui, Whanganui 4500, New Zealand",175.0478901,-39.9300887
-589,China Zhejiang,"Zhejiang, China",120.152792,30.267443
-590,Germany Greven,"Greven, Germany",7.61711,52.0965179
-591,USA Arkansas,"Arkansas, USA",-91.8318334,35.20105
-592,Bhutan,Bhutan,90.433601,27.514162
-593,Russia Chany,"Chany, Novosibirsk Oblast, Russia",76.75,55.316667
-594,New Zealand Otago,"Otago, New Zealand",169.6345253,-44.8280041
-595,United Kingdom Rook,"Rook House, Warrington Road, Wigan, Wigan WN1 3RP, UK",-2.6253613,53.5443577
-596,China Changzhou,"Changzhou, Jiangsu, China",119.974062,31.811226
-597,Thailand A,Thailand,100.992541,15.870032
-598,Indonesia Central Java,"Central Java, Republic of Indonesia",110.1402594,-7.150975
-599,USA DE,"Delaware, USA",-75.5276699,38.9108325
-600,Japan Shizuoka,"Shizuoka, Shizuoka Prefecture, Japan",138.3827596,34.975562
-601,Canada BC,"British Columbia, Canada",-127.6476206,53.7266683
-602,China Dongting,"Dongting, Wuchang, Wuhan, China, 430062",114.355681,30.570125
-603,France Cotes d'Armor,"Cotes-d'Armor, France",-3.3263676,48.5108101
-604,Mongolia Dundgobi,"Dundgovi, Mongolia",106.7644209,45.5822786
-605,China Henan,"Henan, China",113.753602,34.765515
-606,China Shengzhen,"Shenzhen, Guangdong, China",114.057868,22.543099
-607,China Rizhao,"Rizhao, Shandong, China",119.526885,35.416329
-608,China Inner Mongolia,"Inner Mongolia, China",111.76629,40.81739
-609,Viet Nam LongAn,"Long'an, Nanning, Guangxi, China",107.696153,23.166028
-610,Spain Oviedo,"Oviedo, Asturias, Spain",-5.8493887,43.3619145
-611,China Kowloon,"Kowloon, Hong Kong",114.1796057,22.3185673
-612,New Caledonia,New Caledonia,165.618042,-20.904305
-613,Belgium Tessenderlo,"Tessenderlo, Belgium",5.0881938,51.0642666
-614,Russia Blagovechensk,"Blagoveshchensk, Amur Oblast, Russia",127.5404017,50.2727763
-615,USA Georgia,"Georgia, USA",-82.9000751,32.1656221
-616,Mexico Hidalgo,"Hidalgo, Mexico",-98.7623874,20.0910963
-617,France Nice,"Nice, France",7.2619532,43.7101728
-618,Myanmar,Republic of the Union of Myanmar,95.956223,21.913965
-619,Thailand Rachaburi,"Ratchaburi, Thailand",99.8134211,13.5282893
-620,Japan Nara,"Nara, Nara Prefecture, Japan",135.8050002,34.6850869
-621,USA Nebraska,"Nebraska, USA",-99.9018131,41.4925374
-622,Indonesia Sulawesi Selatan,"South Sulawesi, Republic of Indonesia",119.9740534,-3.6687994
-623,Russia Russia Krasnodar,"Krasnodar, Krasnodar Krai, Russia",38.966667,45.033333
-624,Ecuador Quito,"Quito, Ecuador",-78.4678382,-0.1806532
-625,Kyrgyzstan Bishkek,"Bishkek, Kyrgyzstan",74.612222,42.874722
-626,Viet Nam Bac Lieu,"Bac Lieu, Vietnam",105.5136472,9.2515555
-627,Viet Nam Binh Duong,"Binh Duong, Vietnam",106.477017,11.3254024
+67,Russia_Tomsk,"Tomsk, Tomsk Oblast, Russia",84.9924506,56.5010397
+68,Thailand_swine,"Swine Breeds Center, Wang Rong Yai, Sikhio District, Nakhon Ratchasima 30140, Thailand",101.711528,15.0677554
+69,New Zealand_Christchurch,"Christchurch, New Zealand",172.6362254,-43.5320544
+70,Spain_Barcelona,"Barcelona–El Prat Airport (BCN), 08820 El Prat de Llobregat, Barcelona, Spain",2.0832941,41.297445
+71,USA_OH,"Ohio, USA",-82.907123,40.4172871
+72,Russia_Rostov-on-Don,"Rostov-on-Don, Rostov Oblast, Russia",39.7,47.233333
+73,Germany_Bonn,"Bonn, Germany",7.0982068,50.73743
+74,USA_Houston,"Houston, TX, USA",-95.3698028,29.7604267
+75,Denmark_Aarhus,"Aarhus, Denmark",10.203921,56.162939
+76,Egypt_Sharkia,"Ash Sharqia Governorate, Egypt",31.7195459,30.7326622
+77,USA_Southeastern Alaska,"Southeast Tours, Skagway, AK 99840, USA",-135.3136088,59.4584011
+78,Kuwait,Kuwait,47.481766,29.31166
+79,Germany_Stralsund,"Stralsund, Germany",13.0770347,54.3090654
+80,Qatar,Qatar,51.183884,25.354826
+81,USA_Durham,"Durham, NC, USA",-78.898619,35.9940329
+82,Australia_North Fitzroy,"Fitzroy VIC 3065, Australia",144.9786869,-37.7987007
+83,Portugal_PT,Portugal,-8.224454,39.399872
+84,Nigeria,Nigeria,8.675277,9.081999
+85,Canada_GSC_chicken_B,"Calle C, Vicente Guerrero, 70980 Santa María Huatulco, Oax., Mexico",-96.320396,15.8244877
+86,Taiwan_TW,Taiwan,120.960515,23.69781
+87,Australia,Australia,133.775136,-25.274398
+88,Canada_Ontario,"Ontario, Canada",-85.3232139,51.253775
+89,USA_SD,"South Dakota, USA",-99.9018131,43.9695148
+90,USA_Newark,"Newark, NJ, USA",-74.1723667,40.735657
+91,Russia,Russia,105.318756,61.52401
+92,Mongolia_Ulgii,"Ulgii, Mongolia",89.968611,48.968333
+93,United Kingdom_Sheffield,"Sheffield, South Yorkshire, UK",-1.470085,53.381129
+94,Indonesia_East Java,"East Java, Republic of Indonesia",112.2384017,-7.5360639
+95,Hong Kong,Hong Kong,114.109497,22.396428
+96,Poland_Warsaw,"Warsaw, Poland",21.0122287,52.2296756
+97,China_Hubei,"Hubei, Luohu, Shenzhen, China, 518040",114.125215,22.544253
+98,USA_North Carolina,"North Carolina, USA",-79.0192997,35.7595731
+99,Canada_Quebec,"Québec, Canada",-73.5491361,52.9399159
+100,Denmark,Denmark,9.501785,56.26392
+101,Philippines,Philippines,121.774017,12.879721
+102,Viet Nam_ThaiBinh,"Thái Bình, Thai Binh, Vietnam",106.3365828,20.4463471
+103,USA_Colorado,"Colorado, USA",-105.7820674,39.5500507
+104,Australia_chicken,"Hen And Chicken Road, Bathurst NSW 2795, Australia",149.5236504,-33.4699692
+105,South Korea,South Korea,127.766922,35.907757
+106,Viet Nam_Quang Ninh,"Quảng Ninh Province, Vietnam",107.2925144,21.006382
+107,Viet Nam_TayNinh,"Bảo tàng Tây Ninh, Ba Mươi tháng Tư, Khu phố 1, Phường 3, tx. Tây Ninh, Tây Ninh, Vietnam",106.1007011,11.3197972
+108,Mexico_Puebla,"Puebla, Puebla, Mexico",-98.2061996,19.0412967
+109,Russia_Magadan,"Magadan Airport (GDX), Аэропорт Магадан, Magadan, Magadanskaya oblast', Russia, 685918",150.7291948,59.9120057
+110,USA_New York,"New York, NY, USA",-74.0059413,40.7127837
+111,USA_PA,"Pennsylvania, USA",-77.1945247,41.2033216
+112,Lebanon,Lebanon,35.862285,33.854721
+113,Thailand_Chonburi,"Chon Buri, Thailand",100.9846717,13.3611431
+114,Peru_Lima,"Lima, Peru",-77.0427934,-12.046374
+115,USA_GA,"Georgia, USA",-82.9000751,32.1656221
+116,USA_New Jersey,"New Jersey, USA",-74.4056612,40.0583238
+117,China_Guizhou,"Guizhou, China",106.70741,26.598194
+118,France_OMS,"Oms, France",2.696445,42.543113
+119,Poland_Wroclaw,"Wrocław, Poland",17.0385376,51.1078852
+120,Nepal,Nepal,84.124008,28.394857
+121,China_Ya'an,"Ya'an, Sichuan, China",103.013261,29.980537
+122,Japan_Osaka,"Osaka, Osaka Prefecture, Japan",135.5021651,34.6937378
+123,Germany_Jena,"Jena, Germany",11.5892372,50.927054
+124,Peru_Pucallpa,"Pucallpa, Peru",-74.5826166,-8.3928622
+125,Netherlands_Rotterdam,"Rotterdam, Netherlands",4.4777325,51.9244201
+126,Canada_SK,"Saskatchewan, Canada",-106.4508639,52.9399159
+127,Russia_Primorje,"Primorsky Krai, Russia",135.0,45.0525641
+128,Germany_Heudorf-Messkirch,"Heudorf, 88605 Meßkirch, Germany",9.073,47.994781
+129,China_Hunan,"Hunan, China",112.98381,28.112449
+130,Mexico_Durango,"Durango, Dgo., Mexico",-104.6531759,24.0277202
+131,Thailand_Nakhonsawan,"Nakhon Sawan Airport, Klang Daet, Mueang Nakhon Sawan District, Nakhon Sawan 60000, Thailand",100.1371189,15.6690538
+132,Russia_Volgograd,"Volgograd, Volgograd Oblast, Russia",44.516667,48.7
+133,Germany_Bavaria,"Bavaria, Germany",11.4978895,48.7904472
+134,USA_LA,"Louisiana, USA",-91.9623327,30.9842977
+135,Thailand_Ratchaburi,"Ratchaburi, Thailand",99.8134211,13.5282893
+136,Hong Kong_Jiangxi,"Hong Kong Garden, Lian Xiang Da Dao, Guangchang Xian, Fuzhou Shi, Jiangxi Sheng, China, 344900",116.323647,26.849726
+137,Japan_Gifu-C,"Gifu, Gifu Prefecture, Japan",136.7606537,35.4232984
+138,Pakistan_Rawalpindi,"Rawalpindi, Pakistan",73.0441352,33.598394
+139,Denmark_Odense,"Odense, Denmark",10.40237,55.403756
+140,Uganda,Uganda,32.290275,1.373333
+141,Indonesia_North Sumatra,"North Sumatra, Republic of Indonesia",98.9784887,2.0108563
+142,USA_Brownsville,"Brownsville, TX, USA",-97.4974838,25.9017472
+143,USA_Southcentral Alaska,"Central, AK 99730, USA",-144.8030556,65.5725
+144,Netherlands_common eider,"Neuquén Province, Argentina",-69.6691186,-38.8233843
+145,Thailand_Bangkok,"Bangkok, Thailand",100.5017651,13.7563309
+146,Mexico,Mexico,-102.552784,23.634501
+147,Viet Nam_DaNang,"Da Nang, Da Nang, Vietnam",108.2021667,16.0544068
+148,USA_Wisconsin,"Wisconsin, USA",-88.7878678,43.7844397
+149,Germany_Cloppenburg,"Cloppenburg, Germany",8.0530158,52.844198
+150,Germany_Althausen,"Althausen, 97702 Münnerstadt, Germany",10.230344,50.247964
+151,USA_Kansas,"Kansas, USA",-98.4842465,39.011902
+152,USA_Interior Alaska,"US Department of the Interior, 3601 C Street # 1100, Anchorage, AK 99503, USA",-149.884474,61.18759
+153,Mexico_Merida,"97139 Merida, Yucatan, Mexico",-89.5925857,20.9673702
+154,USA_Dayton,"Dayton, OH, USA",-84.1916069,39.7589478
+155,China_SanJiang,"Sanjiang, Liuzhou, Guangxi, China",109.607682,25.783191
+156,Mexico_Yucatan,"Yucatan, Mexico",-89.0943377,20.7098786
+157,USA_Tennessee,"Tennessee, USA",-86.5804473,35.5174913
+158,Canada_Alberta,"Alberta, Canada",-116.5765035,53.9332706
+159,Japan_Shiga,"Shiga Prefecture, Japan",135.8685899,35.0045306
+160,United Kingdom_England,"England, UK",-1.1743197,52.3555177
+161,Viet Nam_Ninh Binh,"Ninh Bình Province, Vietnam",105.92299,20.2129969
+162,Australia_Cairns North,"Cairns North QLD 4870, Australia",145.7594332,-16.9063591
+163,China_Liaoning,"Liaoning, China",123.431383,41.836175
+164,Indonesia_Yogjakarta,"Yogyakarta City, Yogyakarta City, Special Region of Yogyakarta, Republic of Indonesia",110.3694896,-7.7955798
+165,Netherlands_swine,"Neuquén Province, Argentina",-69.6691186,-38.8233843
+166,Saudi Arabia,Saudi Arabia,45.079162,23.885942
+167,China_mallard,"Mallard Drive, Saint Clair, MI 48079, USA",-82.5063462,42.8275782
+168,Japan_Miyazaki,"Miyazaki, Miyazaki Prefecture, Japan",131.4202411,31.9076736
+169,Russia_Orenburg,"Orenburg, Orenburg Oblast, Russia",55.1004538,51.7666482
+170,Guatemala,Guatemala,-90.230759,15.783471
+171,Japan_Fukuoka-C,"Fukuoka, Fukuoka Prefecture, Japan",130.4017155,33.5903547
+172,United Arab Emirates_Emirates,Emirates - 35th Street - Dubai - United Arab Emirates,55.3658156,25.2410514
+173,Germany_Duelmen,"Dülmen, Germany",7.2834926,51.8316451
+174,Spain,Spain,-3.74922,40.463667
+175,Canada_Saskatchewan,"Saskatchewan, Canada",-106.4508639,52.9399159
+176,United Kingdom_Headington,"Headington, Oxford, Oxford, UK",-1.1985742,51.7626463
+177,Colombia_Medellin,"Medellín, Antioquia, Colombia",-75.590556,6.230833
+178,USA_Brooklyn,"Brooklyn, NY, USA",-73.9441579,40.6781784
+179,China_Xianghai,"Xianghai, Tongyu, Baicheng, Jilin, China",122.349124,45.025937
+180,China_Guangxi,"Guangxi, China",108.327546,22.815478
+181,Japan_Kyoto,"Kyoto, Kyoto Prefecture, Japan",135.7680294,35.0116363
+182,USA_Nevada,"Nevada, USA",-116.419389,38.8026097
+183,Australia_Canberra,"Canberra ACT 2601, Australia",149.1286843,-35.2819998
+184,Myanmar_Pyigyitagon,"Pyigyitagon, Mandalay, Republic of the Union of Myanmar",96.1049958,21.9048038
+185,Canada_Canada-MB,"Manitoba, Canada",-98.8138763,53.7608608
+186,Egypt_El Fayoum,"Faiyum, Qesm Al Fayoum, Al Fayoum, Faiyum Governorate, Egypt",30.8428497,29.3084021
+187,USA_Great Lakes,The Great Lakes,-82.4846115,45.0522366
+188,Germany_Bochum,"Bochum, Germany",7.2162363,51.4818445
+189,India,India,78.96288,20.593684
+190,USA_Baylor,"Baylor, MT 59230, USA",-106.4794775,48.6633585
+191,USA_Maryland,"Maryland, USA",-76.6412712,39.0457549
+192,Viet Nam_HaNoi,"Hanoi, Hoàn Kiếm, Hanoi, Vietnam",105.8341598,21.0277644
+193,Viet Nam_NamDinh,"Ga Nam Định, Lương Thế Vinh, tp. Nam Định, Nam Định, Vietnam",106.1640668,20.4217815
+194,USA_Virginia,"Virginia, USA",-78.6568942,37.4315734
+195,Germany_Warendorf,"Warendorf, Germany",7.9908987,51.9538685
+196,Russia_Vladivistok,"Vladivostok, Primorsky Krai, Russia",131.9,43.133333
+197,Japan_Aichi,"Aichi Prefecture, Japan",136.9065647,35.1801883
+198,China_HuNan,"Hunan, China",112.98381,28.112449
+199,Germany_Altenberge,"Altenberge, Germany",7.4699315,52.0468114
+200,Poland_Lutol,"Lutol, Poland",15.0088679,51.8142492
+201,Mongolia,Mongolia,103.846656,46.862496
+202,Japan_Hokkaido,"Hokkaido, Takinouegenya, Takinoue, Monbetsu District, Hokkaido Prefecture 099-5600, Japan",143.0,44.0
+203,Peru,Peru,-75.015152,-9.189967
+204,China_Guangdong,"Guangdong, China",113.266531,23.132191
+205,Czech Republic_Brno,"Brno, Czech Republic",16.6068371,49.1950602
+206,USA_California,"California, USA",-119.4179324,36.778261
+207,Russia_Tula,"Tula, Tula Oblast, Russia",37.6184915,54.204836
+208,Canada_Canada-QC,"Québec, Canada",-73.5491361,52.9399159
+209,Canada_ALB,"University of Alberta, 116 St, Edmonton, AB T6G 2R3",-113.5263186,53.5232189
+210,China,China,104.195397,35.86166
+211,USA_Boston,"Boston, MA, USA",-71.0588801,42.3600825
+212,Australia_Tasmania,"Tasmania, Australia",146.6284905,-41.3650419
+213,Japan_Aomori,"Aomori, Aomori Prefecture, Japan",140.7473647,40.822072
+214,Russia_Perm,"Perm, Perm Krai, Russia",56.316667,58.0
+215,China_ZhaLong,"Shi Zha Long Duan, Jianshui Xian, Honghe Hanizuyizuzizhizhou, Yunnan Sheng, China",102.8363634,23.4212497
+216,USA_VA,"Virginia, USA",-78.6568942,37.4315734
+217,Viet Nam_Vietnam,Vietnam,108.277199,14.058324
+218,USA_Connecticut,"Connecticut, USA",-73.087749,41.6032207
+219,USA_Delaware Bay,"Delaware Bay, United States",-75.2479061,39.1201705
+220,Germany_Freren,"Freren, Germany",7.5441079,52.4869927
+221,Myanmar_Hmawbi,"Hmawbi, Republic of the Union of Myanmar",96.0097018,17.1361597
+222,Indonesia,Republic of Indonesia,113.921327,-0.789275
+223,Japan_Yokohama,"Yokohama, Kanagawa Prefecture, Japan",139.6380256,35.4437078
+224,USA_MI,"Michigan, USA",-85.6023643,44.3148443
+225,USA_South Central Alaska,"Central, AK 99730, USA",-144.8030556,65.5725
+226,Thailand_Sukhothai,"Sukhothai, Thailand",99.8263712,17.0055573
+227,Russia_Tver,"Tver, Tver Oblast, Russia",35.9175965,56.8587214
+228,USA_Memphis,"Memphis, TN, USA",-90.0489801,35.1495343
+229,Russia_Astrakhan,"Astrakhan, Astrakhan Oblast, Russia",48.0599345,46.3588045
+230,Japan_Himeji,"Himeji, Hyogo Prefecture, Japan",134.6853528,34.815149
+231,Germany_Frankfurt,"Frankfurt, Germany",8.6821267,50.1109221
+232,China_Yangzhou,"Yangzhou, Jiangsu, China",119.412966,32.39421
+233,Japan_Shizuoka-C,"Shizuoka, Shizuoka Prefecture, Japan",138.3827596,34.975562
+234,China_Tianjin,"Tianjin, Tianjin, China",117.200983,39.084158
+235,India_Tripura,"Tripura, India",91.9881527,23.9408482
+236,Hungary,Hungary,19.503304,47.162494
+237,Argentina_Cordoba,"Córdoba, Cordoba, Argentina",-64.1821289,-31.3989296
+238,Brazil,Brazil,-51.92528,-14.235004
+239,Ontario,"Ontario, CA, USA",-117.6508876,34.0633443
+240,Canada_AB,"Alberta, Canada",-116.5765035,53.9332706
+241,India_Sikkim,"Sikkim, India",88.5122178,27.5329718
+242,Japan_Wakayama,"Wakayama, Wakayama Prefecture, Japan",135.1708083,34.2305113
+243,China_Sheny,"Calle C, Vicente Guerrero, 70980 Santa María Huatulco, Oax., Mexico",-96.320396,15.8244877
+244,Viet Nam_KhanhHoa,"Khánh Hòa Museum, Trần Phú, Xương Huân, tp. Nha Trang, Khánh Hoà, Vietnam",109.196,12.2499
+245,Germany_Wettringen,"Wettringen, Germany",7.3163421,52.2095347
+246,Russia_Suzdalka,"Suzdalka, Novosibirskaya oblast', Russia, 632457",79.4623653,54.5876514
+247,Thailand_Phichit,"Phichit, Thailand",100.3346991,16.2740876
+248,El Salvador_San Salvador,"San Salvador, El Salvador",-89.2181911,13.6929403
+249,Spain_Madrid,"Madrid, Madrid, Spain",-3.7037902,40.4167754
+250,China_Wenzhou,"Wenzhou, Zhejiang, China",120.699367,27.994267
+251,Iran,Iran,53.688046,32.427908
+252,USA_Alaska,"Alaska, USA",-149.4936733,64.2008413
+253,Greece_Athens,"Athens, Greece",23.7293599,37.983917
+254,Australia_Victoria,"Victoria, Australia",144.7851531,-37.4713077
+255,China_Shantou,"Shantou, Guangdong, China",116.681972,23.354091
+256,Belgium,Belgium,4.469936,50.503887
+257,Viet Nam_Hue,"tp. Huế, Thừa Thiên Huế, Vietnam",107.5623501,16.4498
+258,Thailand_Phathumthani,"Pathum Thani, Thailand",100.5250276,14.0208391
+259,Japan_Kagoshima,"Kagoshima, Kagoshima Prefecture, Japan",130.5571158,31.5965535
+260,Russia_Yaroslavl,"Yaroslavl, Yaroslavl Oblast, Russia",39.8844708,57.6260744
+261,Finland_Helsinki,"00100 Helsinki, Finland",24.9410248,60.1733244
+262,Egypt_Giza,"Giza, Al Omraneyah, Giza Governorate, Egypt",31.2088526,30.0130557
+263,Lebanon_Tennessee,"Lebanon, TN, USA",-86.2911024,36.2081098
+264,USA_Massachusetts,"Massachusetts, USA",-71.3824374,42.4072107
+265,Myanmar_Thanatpin,"Thanatpin, Republic of the Union of Myanmar",96.58,17.294167
+266,France,France,2.213749,46.227638
+267,Japan_Oita,"Oita, Oita Prefecture, Japan",131.609272,33.2395578
+268,USA_Vermont,"Vermont, USA",-72.5778415,44.5588028
+269,Pakistan_Sihala,"Sihala, Pakistan",73.1969108,33.5440724
+270,Thailand_Nakhon Pathom,"Nakhon Pathom, Thailand",100.0621676,13.8199206
+271,India_Rtng,"Sant Shree Punit Trust Dispensary 1 rating |Rate this, Lamington Road, Grant Road East, Shapur Baug, Grant Road, Mumbai, Maharashtra 400007, India",72.8170127,18.9598573
+272,China_Qinghai,"Qinghai, China",101.780251,36.620938
+273,Iraq,Iraq,43.679291,33.223191
+274,Viet Nam_BacGiang,"Tp Bac Giang, Hoàng Văn Thụ, Bắc Giang, Vietnam",106.2150069,21.2868605
+275,Canada_British Columbia,"British Columbia, Canada",-127.6476206,53.7266683
+276,USA_Atlanta,"Atlanta, GA, USA",-84.3879824,33.7489954
+277,Viet Nam_Hau Giang,"Hau Giang, Vietnam",105.6412527,9.757898
+278,Germany_Doetlingen,"Dötlingen, Germany",8.3822783,52.9361745
+279,Mongolia_Ulaanbaatar,"Ulaanbaatar, Mongolia",106.92,47.92
+280,USA_IA,"Iowa, USA",-93.097702,41.8780025
+281,China_North China,China,104.195397,35.86166
+282,Canada_MB,"Manitoba, Canada",-98.8138763,53.7608608
+283,Viet Nam_Hai Duong,"Hai Duong, Vietnam",106.3206861,20.9385958
+284,Nicaragua,Nicaragua,-85.207229,12.865416
+285,Philippines_Phillipines,Philippines,121.774017,12.879721
+286,Thailand_Chachoengsao,"Chachoengsao, Thailand",101.0779596,13.6904194
+287,Russia_Krasnodar,"Krasnodar, Krasnodar Krai, Russia",38.966667,45.033333
+288,Indonesia_East Kalimantan,"East Kalimantan, Republic of Indonesia",116.419389,0.5386586
+289,Japan_Gunma,"Gunma Prefecture, Japan",139.0604061,36.3906675
+290,Australia_Perth,"Perth WA, Australia",115.8570471,-31.9535132
+291,Russia_Lipetsk,"Lipetsk, Lipetsk Oblast, Russia",39.5981225,52.6121996
+292,Iceland,Iceland,-19.020835,64.963051
+293,China_Chibi,"Chibi, Xianning, Hubei, China",113.900628,29.724692
+294,Germany_Papenburg,"Papenburg, Germany",7.4232678,53.0726142
+295,Netherlands_Enschede,"Enschede, Netherlands",6.8936619,52.2215372
+296,Denmark_Hvidovre,"2650 Hvidovre, Denmark",12.475386,55.642522
+297,Germany,Germany,10.451526,51.165691
+298,Japan_Amagasaki,"Amagasaki, Hyogo Prefecture, Japan",135.4063757,34.7337339
+299,Italy_Siena,"Siena-Ampugnano Airport (SAY), Località Ampugnano, 53018 Sovicille SI, Italy",11.254167,43.257221
+300,China_Eastern China,"Dong Bu Kuai Su Lu, Erdao Qu, Changchun Shi, Jilin Sheng, China",125.3764691,43.8854996
+301,Kyrgyzstan,Kyrgyzstan,74.766098,41.20438
+302,Russia_Moscow,"Moscow, Russia",37.6173,55.755826
+303,Viet Nam_BacNinh,"Ga Bắc Ninh, tp. Bắc Ninh, Bắc Ninh, Vietnam",106.0562396,21.1783743
+304,Australia_AUS,Australia,133.775136,-25.274398
+305,Sweden_Stockholm,"Stockholm, Sweden",18.0685808,59.3293235
+306,Australia_Darlinghurst,"Darlinghurst NSW, Australia",151.2186198,-33.8806799
+307,Viet Nam_Nam Dinh,"Nam Dinh, Vietnam",106.2051484,20.2791804
+308,Austria_Vienna,"Vienna, Austria",16.3738189,48.2081743
+309,Germany_Saerbeck,"Saerbeck, Germany",7.6313899,52.1747613
+310,USA_Maine,"Maine, USA",-69.4454689,45.253783
+311,USA_Missouri,"Missouri, USA",-91.8318334,37.9642529
+312,Egypt,Egypt,30.802498,26.820553
+313,France_Lyon,"Lyon, France",4.835659,45.764043
+314,USA_Springfield,"Springfield, MA, USA",-72.589811,42.1014831
+315,Mexico_Mexico City,"Mexico City, Federal District, Mexico",-99.133208,19.4326077
+316,New Zealand_Canterbury,"Canterbury, New Zealand",171.1637245,-43.7542275
+317,Thailand_A,Thailand,100.992541,15.870032
+318,France_Marquenterre,"Parc du Marquenterre, 25bis chemin des Garennes, 80120 Saint-Quentin-en-Tourmont, France",1.585797,50.2637072
+319,USA_TX,"Texas, USA",-99.9018131,31.9685988
+320,Thailand_Suphanburi,"Suphan Buri, Thailand",100.1177128,14.4744892
+321,Switzerland_Geneva,"Geneva, Switzerland",6.1422961,46.1983922
+322,USA_Kentucky,"Kentucky, USA",-84.2700179,37.8393332
+323,Russia_Omsk,"Omsk, Omsk Oblast, Russia",73.366667,54.983333
+324,China_Zhejiang-Yiwu,"Yiwu, Jinhua, Zhejiang, China",120.075058,29.306841
+325,China_Anhui,"Anhui, China",117.284923,31.861184
+326,USA_Pensacola,"Pensacola, FL, USA",-87.2169149,30.421309
+327,Nicaragua_Managua,"Managua, Nicaragua",-86.251389,12.136389
+328,China_Shanghai,"Shanghai, Shanghai, China",121.473701,31.230416
+329,Italy_Pavia,"Pavia PV, Italy",9.1582069,45.1847248
+330,France_Ille et Vilaine,"Ille-et-Vilaine, France",-1.5300695,48.2292016
+331,USA_Los Angeles,"Los Angeles, CA, USA",-118.2436849,34.0522342
+332,USA_FL,"Florida, USA",-81.5157535,27.6648274
+333,New Zealand_West Coast,"West Coast, New Zealand",171.6911559,-42.4064185
+334,Russia_Kurgan,"Kurgan, Kurgan Oblast, Russia",65.35,55.466667
+335,China_Zhenjiang,"Zhenjiang, Jiangsu, China",119.425836,32.187849
+336,South Korea_wild duck,"Salta Province, Argentina",-64.7162415,-25.2529539
+337,USA_Wyoming,"Wyoming, USA",-107.2902839,43.0759678
+338,Canada_Canada-NS,"Nova Scotia, Canada",-63.744311,44.6819866
+339,New Zealand_Bay of Plenty,"Bay Of Plenty, New Zealand",176.1880232,-37.6825027
+340,USA_New Bern,"New Bern, NC, USA",-77.0441143,35.108493
+341,China_Harbin,"Harbin, Heilongjiang, China",126.534967,45.803775
+342,China_Jiangxi,"Jiangxi, China",115.909228,28.675697
+343,Netherlands,Netherlands,5.291266,52.132633
+344,Mexico_Queretaro,"Santiago de Querétaro, Querétaro, Mexico",-100.3898881,20.5887932
+345,USA_IN,"Indiana, USA",-86.1349019,40.2671941
+346,Viet Nam_Binh Doung,"Binh Duong, Vietnam",106.477017,11.3254024
+347,Japan_Akita,"Akita, Akita Prefecture, Japan",140.1025642,39.7200079
+348,China_Jilin,"Jilin, Jilin, China",126.549572,43.837883
+349,China_Huabei,"Hua Bei Lu, Dalian Shi, Liaoning Sheng, China",121.5689759,38.9792398
+350,Netherlands_Bilthoven,"Bilthoven, Netherlands",5.2103806,52.1365344
+351,Nigeria_NIGERIA,Nigeria,8.675277,9.081999
+352,USA_Texas,"Texas, USA",-99.9018131,31.9685988
+353,Russia_Primorie,"Primorsky Krai, Russia",135.0,45.0525641
+354,Italy_Roma,"Rome, Italy",12.4963655,41.9027835
+355,Australia_Brisbane,"Brisbane QLD, Australia",153.0234489,-27.4710107
+356,Germany_Moeglingen,"Möglingen, Germany",9.1317484,48.8893094
+357,Canada_Nova Scotia,"Nova Scotia, Canada",-63.744311,44.6819866
+358,New Zealand_Ashburton,"Ashburton, New Zealand",171.7485672,-43.9083813
+359,Viet Nam_HungYen,"Lê Hùng Yên, tt. Cần Thạnh, Cần Giờ, Hồ Chí Minh, Vietnam",106.9574881,10.4061855
+360,USA_MD,"Maryland, USA",-76.6412712,39.0457549
+361,Germany_Berlin,"Berlin, Germany",13.404954,52.5200066
+362,Russia_Domodedovo,"Domodedovo, Moscow Oblast, Russia",37.747817,55.4430234
+363,USA_MO,"Missouri, USA",-91.8318334,37.9642529
+364,USA_MN,"Minnesota, USA",-94.6858998,46.729553
+365,Afghanistan,Afghanistan,67.709953,33.93911
+366,USA_Rhode Island,"Rhode Island, USA",-71.4774291,41.5800945
+367,Viet Nam_Soc Trang,"Soc Trang, Vietnam",105.9599539,9.6003688
+368,Germany_Tornitz,"Tornitz, Germany",11.8478546,51.9302587
+369,Denmark_Aalborg,"Aalborg, Denmark",9.921747,57.0488195
+370,Germany_Neumarkt,"Neumarkt in der Oberpfalz, Germany",11.4671996,49.2772606
+371,USA_Craven,"Craven, SD 57451, USA",-98.9251084,45.4421975
+372,United Kingdom_Christ's Hospital,"Christs Hospital, Horsham, West Sussex RH13, UK",-0.3623769,51.0461792
+373,USA_Iowa,"Iowa, USA",-93.097702,41.8780025
+374,Australia_Bunbury,"Bunbury WA 6230, Australia",115.6391736,-33.3270685
+375,China_Suzhou,"Suzhou, Jiangsu, China",120.585297,31.298974
+376,France_StEtienne,"Saint-Étienne, France",4.3871779,45.439695
+377,China_Huadong,"Hua Dong Lu, Pudong Xinqu, Shanghai Shi, China",121.6738024,31.230418
+378,New Zealand_Whanganui,"Whanganui, Whanganui 4500, New Zealand",175.0478901,-39.9300887
+379,Russia_St. Petersburg,"Saint Petersburg, Russia",30.3350986,59.9342802
+380,China_Heilongjiang,"Heilongjiang, China",126.661665,45.742367
+381,Germany_Niederwinden,"Niederwinden, 74585 Rot am See, Germany",10.0407304,49.2377342
+382,USA_Indiana,"Indiana, USA",-86.1349019,40.2671941
+383,Germany_Wurzburg,"Würzburg, Germany",9.9533548,49.7913044
+384,Germany_Lohne,"Löhne, Germany",8.7220862,52.1941419
+385,Norway_Oslo,"Oslo, Norway",10.7522454,59.9138688
+386,USA_Cherry Point,"Marine Corps Air Station Cherry Point, NC, USA",-76.8967043,34.9032325
+387,USA_Washington,"Washington, DC, USA",-77.0368707,38.9071923
+388,Japan_Sapporo,"Sapporo, Hokkaido Prefecture, Japan",141.3543763,43.0620958
+389,Belgium_Antwerp,"Antwerp, Belgium",4.4024643,51.2194475
+390,Japan_Shimane,"Shimane Prefecture, Japan",133.0504997,35.4722952
+391,Netherlands_Amsterdam,"Amsterdam, Netherlands",4.8951679,52.3702157
+392,Dominican Republic_Santo Domingo,"Santo Domingo, Dominican Republic",-69.95,18.466667
+393,Malaysia,Malaysia,101.975766,4.210484
+394,China_Shaanxi,"Shaanxi, China",108.954239,34.265472
+395,USA_Minnesota,"Minnesota, USA",-94.6858998,46.729553
+396,USA_Chicago,"Chicago, IL, USA",-87.6297982,41.8781136
+397,Taiwan_Taipei,"Taipei, Taiwan",121.5654177,25.0329694
+398,Germany_Munich,"Munich, Germany",11.5819806,48.1351253
+399,USA_Alabama,"Alabama, USA",-86.902298,32.3182314
+400,Australia_Queensland,"Queensland, Australia",142.7027956,-20.9175738
+401,China_Nanchang,"Nanchang, Jiangxi, China",115.858198,28.682892
+402,Luxembourg,Luxembourg,6.129583,49.815273
+403,Viet Nam_Ha Nam,"Hà Nam Province, Vietnam",105.92299,20.5835196
+404,France_Ploufragan,"Ploufragan, France",-2.794373,48.488781
+405,Russia_Vladimir,"Vladimir, Vladimir Oblast, Russia",40.4178686,56.1445956
+406,Myanmar_Kyaing Tong,"Kyaing Tong Street, Yangon, Republic of the Union of Myanmar",96.218997,16.8357277
+407,-N/A-_St.Petersburg,"Saint Petersburg, Russia",30.3350986,59.9342802
+408,Viet Nam_LangSon,"Lang Son Province, Vietnam",106.6291304,21.8563705
+409,Slovenia,Slovenia,14.995463,46.151241
+410,Taiwan_Kingmen,"Quemoy, Jinhu Township, 891",118.3761111,24.4458333
+411,Germany_Heinersdorf,"Heinersdorf, Großbeeren, Germany",13.326578,52.3892587
+412,Russia_Novosibirsk,"Novosibirsk, Novosibirsk Oblast, Russia",82.9357327,55.0083526
+413,Laos_Lao,Laos,102.495496,19.85627
+414,Thailand,Thailand,100.992541,15.870032
+415,Russia_Joshkar-Ola,"Yoshkar-Ola, Mari El Republic, Russia",47.866667,56.633333
+416,USA_Idaho,"Idaho, USA",-114.7420408,44.0682019
+417,Georgia,"Georgia, USA",-82.9000751,32.1656221
+418,China_Changchun,"Changchun, Jilin, China",125.323544,43.817072
+419,China_Ningxia,"Ningxia, China",106.258754,38.471318
+420,Poland,Poland,19.145136,51.919438
+421,United Kingdom_Rook,"Rook House, Warrington Road, Wigan, Wigan WN1 3RP, UK",-2.6253613,53.5443577
+422,Australia_Melbourne,"Melbourne VIC, Australia",144.96328,-37.814107
+423,USA_Oregon,"Oregon, USA",-120.5542012,43.8041334
+424,Bolivia_Santa Cruz,"Santa Cruz de la Sierra, Bolivia",-63.0,-17.866667
+425,Russia_Salekhard,"Salekhard, Yamalo-Nenets Autonomous Okrug, Russia",66.6,66.533333
+426,Turkey_Ankara,"Ankara/Ankara, Turkey",32.85411,39.92077
+427,China_Hebei,"Hebei, China",114.468665,38.037057
+428,USA_New Mexico,"New Mexico, USA",-105.8700901,34.5199402
+429,Indonesia_West Java,"West Java, Republic of Indonesia",107.668887,-7.090911
+430,Italy_Genoa,"Genoa, Italy",8.946256,44.4056499
+431,Japan_Osaka-C,"Osaka, Osaka Prefecture, Japan",135.5021651,34.6937378
+432,Japan_kumamoto,"Kumamoto, Kumamoto Prefecture, Japan",130.7078911,32.8031004
+433,China_Shandong,"Shandong, China",117.020359,36.66853
+434,Japan_Utsunomiya,"Utsunomiya, Tochigi Prefecture, Japan",139.8828072,36.5551124
+435,Japan_swine,"Jalna, Nariman Nagar, Jalna, Maharashtra 431213, India",75.8928794,19.8305432
+436,Germany_Bayern,"Bavaria, Germany",11.4978895,48.7904472
+437,Taiwan,Taiwan,120.960515,23.69781
+438,Japan_Iwate,"Iwate Prefecture, Japan",141.1526839,39.7036194
+439,Kazakhstan_Almati,"Almaty, Kazakhstan",76.8512485,43.2220146
+440,Germany_Cologne,"Cologne, Germany",6.9602786,50.937531
+441,Japan_Tokushima,"Tokushima, Tokushima Prefecture, Japan",134.5548438,34.0702703
+442,Italy,Italy,12.56738,41.87194
+443,Sudan,Sudan,30.217636,12.862807
+444,Mexico_Mexico city,"Mexico City, Federal District, Mexico",-99.133208,19.4326077
+445,USA_Montana,"Montana, USA",-110.3625658,46.8796822
+446,Russia_Reshoty,"Reshoty, Nizhnyaya Poyma, Krasnoyarskiy kray, Russia, 663841",97.206056,56.157288
+447,Canada_New Brunswick,"New Brunswick, Canada",-66.4619164,46.5653163
+448,China_Sichuan,"Sichuan, China",104.075931,30.651652
+449,Russia_Tyva,"Tyva, Arkhangelskaya oblast', Russia, 165740",48.6956849,61.8079151
+450,Russia_Siberia,Siberia,99.1966559,61.0137097
+451,Czech Republic_Ostrava,"Ostrava, Czech Republic",18.2625243,49.8209226
+452,Japan_Tochigi,"Tochigi Prefecture, Japan",139.8835651,36.565725
+453,Russia_Chita,"Chita, Zabaykalsky Krai, Russia",113.466667,52.05
+454,Israel,Israel,34.851612,31.046051
+455,USA_West Virginia,"West Virginia, USA",-80.4549026,38.5976262
+456,Japan_Nagasaki,"Nagasaki, Nagasaki Prefecture, Japan",129.877667,32.7502856
+457,Germany_Hamburg,"Hamburg, Germany",9.9936818,53.5510846
+458,Australia_South Austalia,"South Australia, Australia",136.2091547,-30.0002315
+459,USA_Silver Spring,"Silver Spring, MD, USA",-77.026088,38.9906657
+460,USA_Utah,"Utah, USA",-111.0937311,39.3209801
+461,Germany_Ankum-Stockum,"Stockum(Ankum) Niemann, Germany",7.912311,52.531
+462,Viet Nam_Son La,"Son La, Vietnam",103.7289167,21.1022284
+463,Netherlands_Nijmegen,"Nijmegen, Netherlands",5.8372264,51.8125626
+464,USA_Gainesville,"Gainesville, FL, USA",-82.3248262,29.6516344
+465,Viet Nam_Ha Tay,"Hà Tây, tp. Kon Tum, Gia Lai, Vietnam",108.1191501,14.2959702
+466,USA_San Diego,"San Diego, CA, USA",-117.1610838,32.715738
+467,USA_Bronx,"Bronx County, NY, USA",-73.8654295,40.8370495
+468,United Kingdom_Northern Ireland,"Northern Ireland, UK",-6.4923145,54.7877149
+469,Russia_Rostov,"Rostov-on-Don, Rostov Oblast, Russia",39.7,47.233333
+470,Senegal_Dakar,"Dakar, Senegal",-17.3660286,14.7645042
+471,United Kingdom_Scotland,"Scotland, UK",-4.2026458,56.4906712
+472,Egypt_Qalubia,"Al Qalyubia Governorate, Egypt",31.2168466,30.3292368
+473,Indonesia_Bali,"Bali, Republic of Indonesia",115.188916,-8.4095178
+474,USA_CA,"California, USA",-119.4179324,36.778261
+475,Mexico_Jalisco,"Jalisco, Mexico",-103.3494376,20.6595382
+476,India_Vadu,"Vadu, Gujarat 382705, India",72.4953398,23.3604178
+477,Canada_Manitoba,"Manitoba, Canada",-98.8138763,53.7608608
+478,United Kingdom,United Kingdom,-3.435973,55.378051
+479,Mexico_Coahuila,"Coahuila, Mexico",-101.7068294,27.058676
+480,Japan_Ibaraki,"Ibaraki Prefecture, Japan",140.4467935,36.3418112
+481,Zambia,Zambia,27.849332,-13.133897
+482,China_Beijing,"Beijing, Beijing, China",116.407395,39.904211
+483,China_Shanxi,"Shanxi, China",112.562398,37.873532
+484,Viet Nam_HoaBinh,"cầu Hòa Bình, Đông Hoà, tp. Thái Bình, Thái Bình, Vietnam",106.3367203,20.477229
+485,China_Zhoushan,"Zhoushan, Zhejiang, China",122.207216,29.985295
+486,Russia_Altai,"Altai Krai, Russia",82.6758596,51.7936298
+487,Cambodia,Cambodia,104.990963,12.565679
+488,USA_Ft.Benning,"Fort Benning, Cusseta, GA 31905, USA",-84.9688191,32.3523691
+489,China_Fujian,"Fujian, China",119.295144,26.10078
+490,USA_South Carolina,"South Carolina, USA",-81.1637245,33.836081
+491,Argentina,Argentina,-63.616672,-38.416097
+492,Belgium_Brussels,"Brussels, Belgium",4.3517103,50.8503396
+493,USA_Bethesda,"Bethesda, MD, USA",-77.0947092,38.984652
+494,USA_NY,"New York, NY, USA",-74.0059413,40.7127837
+495,Canada_Toronto,"Toronto, ON, Canada",-79.3831843,43.653226
+496,Australia_South Australia,"South Australia, Australia",136.2091547,-30.0002315
+497,Canada_QC,"Québec, Canada",-73.5491361,52.9399159
+498,South Africa_Johannesburg,"Johannesburg, South Africa",28.0473051,-26.2041028
+499,Japan_Niigata,"Niigata, Niigata Prefecture, Japan",139.0364126,37.9161924
+500,Japan_Fukushima,"Fukushima, Fukushima Prefecture, Japan",140.4747282,37.7608337
+501,France_Paris,"Paris, France",2.3522219,48.856614
+502,USA_NJ,"New Jersey, USA",-74.4056612,40.0583238
+503,Japan_Kawasaki,"Kawasaki, Kanagawa Prefecture, Japan",139.7030511,35.5309058
+504,Thailand_Kalasin,"Kalasin, Mueang Kalasin District, Kalasin 46000, Thailand",103.509167,16.434167
+505,USA_Michigan,"Michigan, USA",-85.6023643,44.3148443
+506,USA_NC,"North Carolina, USA",-79.0192997,35.7595731
+507,New Zealand_Waikato,"Waikato, New Zealand",175.4375574,-38.0594263
+508,China_Yunnan,"Yunnan, China",102.710002,25.045806
+509,Russia_Krasnoozerskoe,"Krasnoyarsk, Krasnoyarsk Krai, Russia",92.8932476,56.0152834
+510,China_Shijiazhuang,"Shijiazhuang, Hebei, China",114.51486,38.042307
+511,New Zealand,New Zealand,174.885971,-40.900557
+512,Spain_Terrassa,"Terrassa, Barcelona, Spain",2.0088747,41.563211
+513,Pakistan,Pakistan,69.345116,30.375321
+514,Egypt_Menofia,"Menofia Governorate, Egypt",30.9876321,30.5972455
+515,Russia_Arkhangelsk,"Arkhangelsk, Arkhangelsk Oblast, Russia",40.5601553,64.5472507
+516,Guam,Guam,144.793731,13.444304
+517,Viet Nam,Vietnam,108.277199,14.058324
+518,Mexico_Chis,"Chiapas, Mexico",-93.1292353,16.7569318
+519,India_INDIA,India,78.96288,20.593684
+520,Bangladesh,Bangladesh,90.356331,23.684994
+521,China_San Jiang,"Sanjiang, Liuzhou, Guangxi, China",109.607682,25.783191
+522,India_West Bengal,"West Bengal, India",87.8549755,22.9867569
+523,Laos,Laos,102.495496,19.85627
+524,USA_Oklahoma,"Oklahoma City, OK, USA",-97.5164276,35.4675602
+525,USA_Arizona,"Arizona, USA",-111.0937311,34.0489281
+526,Thailand_Udon Thani,"Udon Thani, Thailand",102.7872325,17.4138413
+527,Japan_Sendai,"Sendai, Miyagi Prefecture, Japan",140.8693558,38.268215
+528,Singapore,Singapore,103.819836,1.352083
+529,Australia_Western Australia,"Western Australia, Australia",121.6283098,-27.6728168
+530,Germany_Germany-BY,"Fahrschule Hettl by Drive Zone GmbH, Fürther Straße 13, 90587 Veitsbronn, Germany",10.8815303,49.5078202
+531,Japan_Narita,"Narita, Chiba Prefecture, Japan",140.3187806,35.7766076
+532,USA_Louisiana,"Louisiana, USA",-91.9623327,30.9842977
+533,China_Jangsu,"Jiangsu, China",118.763232,32.061707
+534,Thailand_Angthong,"Ang Thong, Thailand",100.455052,14.5896054
+535,USA_Pennsylvania,"Pennsylvania, USA",-77.1945247,41.2033216
+536,Mexico_Veracruz,"Heroica Veracruz, Veracruz, Mexico",-96.1342241,19.173773
+537,Japan_Mie,"Mie Prefecture, Japan",136.5085883,34.7302829
+538,Japan_Kumamoto,"Kumamoto, Kumamoto Prefecture, Japan",130.7078911,32.8031004
+539,Sweden,Sweden,18.643501,60.128161
+540,Hungary_Budapest,"Budapest, Hungary",19.040235,47.497912
+541,China_Wuxi,"Wuxi, Jiangsu, China",120.31191,31.49117
+542,Australia_starling,"Starling Road, Officer VIC 3809, Australia",145.416128,-38.0550244
+543,Australia_Sydney,"Sydney NSW, Australia",151.2069902,-33.8674869
+544,Russia_Vladivostok,"Vladivostok, Primorsky Krai, Russia",131.9,43.133333
+545,Japan_Hyogo,"Hyogo Prefecture, Japan",135.1830706,34.6912688
+546,Romania,Romania,24.96676,45.943161
+547,Canada_Canada-ON,"Ontario, Canada",-85.3232139,51.253775
+548,Poland_Bieganow,"Bieganów, Poland",20.4927442,52.0451517
+549,Austria,Austria,14.550072,47.516231
+550,USA_mallard.Maryland,"Mallard Lane, Lothian, MD 20711, USA",-76.6835091,38.7616177
+551,Cote dIvoire_Ivory Coast,Côte d'Ivoire,-5.54708,7.539989
+552,Viet Nam_HaNam,"đảo Hà Nam, tx. Quảng Yên, Vietnam",106.8060388,20.902393
+553,Japan,Japan,138.252924,36.204824
+554,Germany_Wuerusreuth,"Gera, Germany",12.0807203,50.8850706
+555,Indonesia_South Kalimantan,"South Kalimantan, Republic of Indonesia",115.2837585,-3.0926415
+556,USA_Santa Fe,"Santa Fe, NM, USA",-105.937799,35.6869752
+557,China_Jiangsu,"Jiangsu, China",118.763232,32.061707
+558,China_Gansu,"Gansu, China",103.826447,36.059561
+559,Japan_Yamaguchi,"Yamaguchi, Yamaguchi Prefecture, Japan",131.4737269,34.178496
+560,Thailand_Uthaithani,"Uthai Thani, Thailand",100.0245527,15.3835001
+561,Russia_Nizhnii Novgorod,"Nizhniy Novgorod, Nizhny Novgorod Oblast, Russia",43.9360589,56.2965039
+562,Japan_Tokyo,"Tokyo, Japan",139.7319925,35.7090259
+563,USA_Delaware,"Delaware, USA",-75.5276699,38.9108325
+564,China_HuBei,"Hubei, Luohu, Shenzhen, China, 518040",114.125215,22.544253
+565,Germany_Ebbinghof,"Ebbinghof, 57392 Schmallenberg, Germany",8.2858971,51.1799815
+566,China_Hei Longjiang,"Heilongjiang, China",126.661665,45.742367
+567,-N/A-_Indonesia,Republic of Indonesia,113.921327,-0.789275
+568,Canada_Canada-SK,"Saskatchewan, Canada",-106.4508639,52.9399159
+569,Viet Nam_HoChiMinh,"Tan Son Nhat International Airport, Ho Chi Minh, Vietnam",106.6588245,10.8184631
+570,Chile,Chile,-71.542969,-35.675147
+571,USA_Illinois,"Illinois, USA",-89.3985283,40.6331249
+572,Canada_chicken,"Chicken, AK, USA",-141.9361111,64.0733333
+573,Canada_Canada-AB,"Alberta, Canada",-116.5765035,53.9332706
+574,China_Xuzhou,"Xuzhou, Jiangsu, China",117.284124,34.205768
+575,USA_Mississippi,"Mississippi, USA",-89.3985283,32.3546679
+576,Thailand_Khon Kaen,"Khon Kaen Airport (KKC), Sila, Mueang Khon Kaen District, Khon Kaen 40000, Thailand",102.7867966,16.4651045
+577,New Zealand_Dunedin,"Dunedin, New Zealand",170.5027976,-45.8787605
+578,Germany_Albersloh,"Albersloh, 48324 Sendenhorst, Germany",7.733318,51.868518
+579,Netherlands_Tilburg,"Tilburg, Netherlands",5.0919143,51.560596
+580,Japan_Yamagata,"Yamagata, Yamagata Prefecture, Japan",140.3396017,38.2554388
+581,Viet Nam_Lang Son,"Lang Son Province, Vietnam",106.6291304,21.8563705
+582,Japan_Sakai,"Sakai, Osaka Prefecture, Japan",135.482998,34.573262
+583,Croatia,Croatia,15.2,45.1
+584,Switzerland,Switzerland,8.227512,46.818188
+585,Chile_Santiago,"Santiago, Santiago Metropolitan Region, Chile",-70.641997,-33.4691199
+586,Japan_Okinawa,"Okinawa Prefecture, Japan",127.6809317,26.2124013
+587,Canada_GSC_chicken,"Calle C, Vicente Guerrero, 70980 Santa María Huatulco, Oax., Mexico",-96.320396,15.8244877
+588,New Zealand_Tairawhiti,"Tairawhiti Street, Ratana 4581, New Zealand",175.1763854,-40.0397221
+589,USA_Ohio,"Ohio, USA",-82.907123,40.4172871
+590,USA_swine,"Swine Building, Town Hill Road, Terryville, CT 06786, USA",-73.0202927,41.6678341
+591,France_Finnistere,"Finistere, France",-3.9300525,48.2520249
+592,United Kingdom_Guildford,"Guildford, Guildford, Surrey, UK",-0.570409,51.23622
+593,South Africa,South Africa,22.937506,-30.559482
+594,Viet Nam_Long An,"tp. Tân An, Long An, Vietnam",106.4052541,10.5330098
+595,Russia_Cygnus olor,"Raipur Junction, Foot Bridge, Loco Colony, Gudhiyari, Raipur, Chhattisgarh 492009, India",81.6298804,21.2563505
+596,Denmark_Copenhagen,"Copenhagen, Denmark",12.5683371,55.6760968
+597,Japan_Kobe,"Kobe, Hyogo Prefecture, Japan",135.1955112,34.690083
+598,China_Zhejiang,"Zhejiang, China",120.152792,30.267443
+599,Germany_Greven,"Greven, Germany",7.61711,52.0965179
+600,USA_Arkansas,"Arkansas, USA",-91.8318334,35.20105
+601,Bhutan,Bhutan,90.433601,27.514162
+602,Russia_Chany,"Chany, Novosibirsk Oblast, Russia",76.75,55.316667
+603,New Zealand_Otago,"Otago, New Zealand",169.6345253,-44.8280041
+604,New Zealand_Wellington,"Wellington, New Zealand",174.776236,-41.2864603
+605,China_Changzhou,"Changzhou, Jiangsu, China",119.974062,31.811226
+606,Viet Nam_Cao Bang,"Cao Bang, Vietnam",106.2522143,22.635689
+607,Indonesia_Central Java,"Central Java, Republic of Indonesia",110.1402594,-7.150975
+608,USA_DE,"Delaware, USA",-75.5276699,38.9108325
+609,Japan_Shizuoka,"Shizuoka, Shizuoka Prefecture, Japan",138.3827596,34.975562
+610,Canada_BC,"British Columbia, Canada",-127.6476206,53.7266683
+611,China_Dongting,"Dongting, Wuchang, Wuhan, China, 430062",114.355681,30.570125
+612,France_Cotes d'Armor,"Cotes-d'Armor, France",-3.3263676,48.5108101
+613,Mongolia_Dundgobi,"Dundgovi, Mongolia",106.7644209,45.5822786
+614,Russia_Ekaterinburg,"Yekaterinburg, Sverdlovsk Oblast, Russia",60.6057025,56.8389261
+615,China_Henan,"Henan, China",113.753602,34.765515
+616,China_Shengzhen,"Shenzhen, Guangdong, China",114.057868,22.543099
+617,China_Rizhao,"Rizhao, Shandong, China",119.526885,35.416329
+618,China_Inner Mongolia,"Inner Mongolia, China",111.76629,40.81739
+619,Viet Nam_LongAn,"Long'an, Nanning, Guangxi, China",107.696153,23.166028
+620,Spain_Oviedo,"Oviedo, Asturias, Spain",-5.8493887,43.3619145
+621,China_Kowloon,"Kowloon, Hong Kong",114.1796057,22.3185673
+622,New Caledonia,New Caledonia,165.618042,-20.904305
+623,Belgium_Tessenderlo,"Tessenderlo, Belgium",5.0881938,51.0642666
+624,Russia_Blagovechensk,"Blagoveshchensk, Amur Oblast, Russia",127.5404017,50.2727763
+625,USA_Georgia,"Georgia, USA",-82.9000751,32.1656221
+626,Mexico_Hidalgo,"Hidalgo, Mexico",-98.7623874,20.0910963
+627,France_Nice,"Nice, France",7.2619532,43.7101728
+628,Myanmar,Republic of the Union of Myanmar,95.956223,21.913965
+629,Thailand_Rachaburi,"Ratchaburi, Thailand",99.8134211,13.5282893
+630,Japan_Nara,"Nara, Nara Prefecture, Japan",135.8050002,34.6850869
+631,USA_Nebraska,"Nebraska, USA",-99.9018131,41.4925374
+632,Indonesia_Sulawesi Selatan,"South Sulawesi, Republic of Indonesia",119.9740534,-3.6687994
+633,Russia_Russia_Krasnodar,"Krasnodar, Krasnodar Krai, Russia",38.966667,45.033333
+634,Ecuador_Quito,"Quito, Ecuador",-78.4678382,-0.1806532
+635,Kyrgyzstan_Bishkek,"Bishkek, Kyrgyzstan",74.612222,42.874722
+636,Viet Nam_Bac Lieu,"Bac Lieu, Vietnam",105.5136472,9.2515555
+637,Viet Nam_Binh Duong,"Binh Duong, Vietnam",106.477017,11.3254024

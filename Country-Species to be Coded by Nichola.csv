@@ -9,14 +9,14 @@
 7,Canada,Redhead
 8,Canada,Murre
 9,Canada,Scaup
-10,Canada,Lesser Scaup
+10,Canada,Avian
 11,Canada,White-Rumped Sandpiper
 12,Canada,Canada Goose
 13,Canada,Bufflehead
 14,Canada,Blue-Winged Teal
 15,Canada,American Wigeon
 16,Canada,Green-Winged Teal
-17,Canada,Avian
+17,Canada,Lesser Scaup
 18,Canada,Northern Pintail
 19,Canada,Swine
 20,Canada,Hooded Merganser
@@ -29,434 +29,437 @@
 27,Canada,Duck
 28,Canada,Mallard-Black Duck Hybrid
 29,Canada,Chicken
-30,Brazil,Semipalmated Sandpiper
-31,Brazil,Swine
-32,Brazil,Human
-33,Qatar,Human
-34,Italy,Poultry
-35,Italy,Turkey
-36,Italy,Horse
-37,Italy,Mute Swan
-38,Italy,Teal
-39,Italy,Ostrich
-40,Italy,Guineafowl
-41,Italy,Mallard
-42,Italy,Swine
-43,Italy,Human
-44,Italy,Duck
-45,Italy,Quail
-46,Italy,Chicken
-47,Bangladesh,Environment
-48,Bangladesh,Quail
-49,Bangladesh,Chicken
-50,Bangladesh,Duck
-51,USA,Pintail
-52,USA,Turkey
-53,USA,Horse
-54,USA,Ruddy Turnstone
-55,USA,American Black Duck
-56,USA,American Green-Winged Teal
-57,USA,Unknown
-58,USA,Swan
-59,USA,Gull
-60,USA,Common Goldeneye
-61,USA,Environment
-62,USA,Common Eider
-63,USA,Softbill
-64,USA,Grebe
-65,USA,Northern Shoveler
-66,USA,Redhead
-67,USA,Muscovy Duck
-68,USA,Common Murre
-69,USA,Bird
-70,USA,Avian
-71,USA,Coot
-72,USA,Cinnamon Teal
-73,USA,Tundra Swan
-74,USA,Canada Goose
-75,USA,Guineafowl
-76,USA,Greater White-Fronted Goose
-77,USA,Bufflehead
-78,USA,Greater Scaup
-79,USA,Dove
-80,USA,Least Sandpiper
-81,USA,Red Knot
-82,USA,Blue-Winged Teal
-83,USA,Ring-Necked Duck
-84,USA,Knot
-85,USA,Parrot
-86,USA,White-Winged Scoter
-87,USA,Pigeon
-88,USA,American Wigeon
-89,USA,Green-Winged Teal
-90,USA,Lesser Scaup
-91,USA,Black Duck
-92,USA,Semipalmated Sandpiper
-93,USA,Northern Pintail
-94,USA,Mute Swan
-95,USA,Waterfowl
-96,USA,Swine
-97,USA,Teal
-98,USA,Long-Tailed Duck
-99,USA,Chukar
-100,USA,Laughing Gull
-101,USA,Shorebird
-102,USA,Emu
-103,USA,Gadwall
-104,USA,Pheasant
-105,USA,Herring Gull
-106,USA,Rhea
-107,USA,Black Scoter
-108,USA,Snow Goose
-109,USA,Goose
-110,USA,Mallard
-111,USA,Weasel
-112,USA,Human
-113,USA,Duck
-114,USA,Quail
-115,USA,Chicken
-116,USA,Common Scoter
-117,USA,Sanderling
-118,Afghanistan,Chicken
-119,Sudan,Chicken
-120,India,Goose
-121,India,Aquatic Bird
-122,India,Chicken
-123,India,Human
-124,Nepal,Human
-125,Mongolia,Herring Gull
-126,Mongolia,Camel
-127,Mongolia,Black-Headed Gull
-128,Mongolia,Common Goldeneye
-129,Mongolia,Whooper Swan
-130,Mongolia,Red-Crested Pochard
-131,Mongolia,Human
-132,Mongolia,Duck
-133,France,Turkey
-134,France,Mallard
-135,France,Swine
-136,France,Human
-137,France,Duck
-138,France,Muscovy Duck
-139,Luxembourg,Human
-140,Georgia,Garganey
-141,Georgia,Gull
-142,Georgia,Northern Shoveler
-143,Georgia,Black-Headed Gull
-144,Georgia,Mallard
-145,Georgia,Teal
-146,Georgia,Duck
-147,Peru,Human
-148,Laos,Environment
-149,Laos,Chicken
-150,Laos,Pigeon
-151,Laos,Duck
-152,Argentina,Rosy-Billed Pochard
-153,Argentina,Horse
-154,Argentina,Human
-155,Bolivia,Human
-156,Norway,Swine
-157,Norway,Human
-158,Nigeria,Guineafowl
-159,Nigeria,Chicken
-160,Nigeria,Ostrich
-161,Ecuador,Human
-162,Czech Republic,Swine
-163,Czech Republic,Human
-164,Israel,Turkey
-165,Israel,Chicken
-166,Israel,Avian
-167,Australia,Avian
-168,Australia,Teal
-169,Australia,Black Duck
-170,Australia,Sooty Tern
-171,Australia,Emu
-172,Australia,Starling
-173,Australia,Human
-174,Australia,Duck
-175,Australia,Chicken
-176,Australia,Red-Necked Stint
-177,Australia,Sharp-Tailed Sandpiper
-178,Iran,Chicken
-179,Bhutan,Chicken
-180,Indonesia,Quail
-181,Indonesia,Chicken
-182,Indonesia,Swine
-183,Indonesia,Human
-184,Indonesia,Duck
-185,Singapore,Human
-186,El Salvador,Human
-187,Iceland,Iceland Gull
-188,Iceland,Herring Gull
-189,Iceland,Black-Headed Gull
-190,Iceland,Glaucous Gull
-191,Iceland,Gull
-192,Iceland,Goose
-193,Iceland,Mallard
-194,Iceland,Pink-Footed Goose
-195,Zambia,Pelican
-196,Zambia,Duck
-197,Senegal,Human
-198,Russia,Teal
-199,Russia,Turkey
-200,Russia,Garganey
-201,Russia,Mute Swan
-202,Russia,Grebe
-203,Russia,Great Crested Grebe
-204,Russia,Gull
-205,Russia,Gadwall
-206,Russia,Whooper Swan
-207,Russia,Goose
-208,Russia,Unknown
-209,Russia,Mallard
-210,Russia,Rook
-211,Russia,Starling
-212,Russia,Pigeon
-213,Russia,Human
-214,Russia,Duck
-215,Russia,Chicken
-216,Russia,Muscovy Duck
-217,Slovenia,Swan
-218,Guatemala,Chicken
-219,Guatemala,Blue-Winged Teal
-220,China,Egret
-221,China,Horse
-222,China,Canvasback
-223,China,Condor
-224,China,Swan
-225,China,Pigeon
-226,China,Magpie
-227,China,Environment
-228,China,Bar-Headed Goose
-229,China,Great Black-Headed Gull
-230,China,Grebe
-231,China,Finch
-232,China,Muscovy Duck
-233,China,Bird
-234,China,Little Grebe
-235,China,Wild Chicken
-236,China,Myna
-237,China,Baikal Teal
-238,China,Domestic Cat
-239,China,Parrot
-240,China,Large Cat
-241,China,Green-Winged Teal
-242,China,Silky Chicken
-243,China,Dog
-244,China,Ostrich
-245,China,Waterfowl
-246,China,Swine
-247,China,Brown-Headed Gull
-248,China,Shrike
-249,China,Garganey
-250,China,Black-Billed Magpie
-251,China,Sparrow
-252,China,Spot-Billed Duck
-253,China,Goose
-254,China,Mallard
-255,China,Human
-256,China,Duck
-257,China,Quail
-258,China,Chicken
-259,China,Panda
-260,Chile,Human
-261,Kuwait,Chicken
-262,Kuwait,Saker Falcon
-263,Kuwait,Human
-264,Belgium,Mallard
-265,Belgium,Swine
-266,Belgium,Human
-267,Thailand,Unknown
-268,Thailand,Pigeon
-269,Thailand,Little Grebe
-270,Thailand,Tree Sparrow
-271,Thailand,Swine
-272,Thailand,Human
-273,Thailand,Duck
-274,Thailand,Openbill Stork
-275,Thailand,Quail
-276,Thailand,Chicken
-277,Dominican Republic,Human
-278,Germany,Mute Swan
-279,Germany,Swan
-280,Germany,Mallard
-281,Germany,Weasel
-282,Germany,Human
-283,Germany,Duck
-284,Germany,Chicken
-285,Germany,Swine
-286,Hong Kong,Egret
-287,Hong Kong,Magpie Robin
-288,Hong Kong,Heron
-289,Hong Kong,Pigeon
-290,Hong Kong,Environment
-291,Hong Kong,Grey Heron
-292,Hong Kong,Northern Shoveler
-293,Hong Kong,Avian
-294,Hong Kong,Peregrine Falcon
-295,Hong Kong,Guineafowl
-296,Hong Kong,Chukar
-297,Hong Kong,Little Egret
-298,Hong Kong,Silky Chicken
-299,Hong Kong,Northern Pintail
-300,Hong Kong,Eurasian Wigeon
-301,Hong Kong,Swine
-302,Hong Kong,Teal
-303,Hong Kong,Quail
-304,Hong Kong,Barn Swallow
-305,Hong Kong,Pheasant
-306,Hong Kong,Human
-307,Hong Kong,Duck
-308,Hong Kong,Waterfowl
-309,Hong Kong,Chicken
-310,Philippines,Human
-311,Spain,Swine
-312,Spain,Human
-313,-N/A-,Ferret
-314,-N/A-,Human
-315,Lebanon,Quail
-316,Lebanon,Human
-317,Kyrgyzstan,Human
-318,Netherlands,Teal
-319,Netherlands,Mute Swan
-320,Netherlands,Shoveler
-321,Netherlands,Herring Gull
-322,Netherlands,Barnacle Goose
-323,Netherlands,Black-Headed Gull
-324,Netherlands,Goose
-325,Netherlands,Mallard
-326,Netherlands,Ruddy Turnstone
-327,Netherlands,Eurasian Wigeon
-328,Netherlands,Swine
-329,Netherlands,Human
-330,Netherlands,Northern Shoveler
-331,Netherlands,Common Eider
-332,Netherlands,Pink-Footed Goose
-333,Netherlands,Chicken
-334,Netherlands,Bewick's Swan
-335,Estonia,Human
-336,Denmark,Swine
-337,Denmark,Human
-338,Denmark,Duck
-339,Poland,Turkey
-340,Poland,Chicken
-341,Poland,Swine
-342,Poland,Human
-343,Finland,Human
-344,Saudi Arabia,Turkey
-345,Saudi Arabia,Falcon
-346,Saudi Arabia,Avian
-347,New Caledonia,Human
-348,Sweden,Dunlin
-349,Sweden,Black-Headed Gull
-350,Sweden,Mallard
-351,Sweden,Eurasian Wigeon
-352,Sweden,Weasel
-353,Sweden,Human
-354,Turkey,Human
-355,Cambodia,Stork
-356,Cambodia,Environment
-357,Cambodia,Chicken
-358,Cambodia,Human
-359,Cambodia,Duck
-360,Hungary,Goose
-361,Hungary,Mute Swan
-362,Hungary,Swine
-363,Hungary,Human
-364,Switzerland,Horse
-365,Switzerland,Human
-366,New Zealand,Mallard
-367,New Zealand,Human
-368,South Korea,Baikal Teal
-369,South Korea,Horse
-370,South Korea,Eurasian Eagle-Owl
-371,South Korea,Domestic Cat
-372,South Korea,Teal
-373,South Korea,Aquatic Bird
-374,South Korea,Common Coot
-375,South Korea,Dog
-376,South Korea,Environment
-377,South Korea,Mallard
-378,South Korea,Waterfowl
-379,South Korea,Swine
-380,South Korea,Human
-381,South Korea,Duck
-382,South Korea,Goose
-383,South Korea,Chicken
-384,South Korea,Tundra Swan
-385,South Korea,Bird
-386,Cote dIvoire,Turkey
-387,Cote dIvoire,Chicken
-388,Cote dIvoire,Duck
-389,Pakistan,Chicken
-390,Croatia,Mute Swan
-391,Iraq,Human
-392,Myanmar,Quail
-393,Myanmar,Chicken
-394,Myanmar,Human
-395,Portugal,Tufted Duck
-396,Portugal,Mallard
-397,Mexico,Cinnamon Teal
-398,Mexico,Chicken
-399,Mexico,Swine
-400,Mexico,Human
-401,Egypt,Turkey
-402,Egypt,Avian
-403,Egypt,Goose
-404,Egypt,Whiskered Tern
-405,Egypt,Duck
-406,Egypt,Chicken
-407,United Arab Emirates,Chicken
-408,Guam,Human
-409,South Africa,Horse
-410,South Africa,Human
-411,South Africa,Ostrich
-412,Viet Nam,Goose
-413,Viet Nam,Aquatic Bird
-414,Viet Nam,Duck
-415,Viet Nam,Japanese Quail
-416,Viet Nam,Environment
-417,Viet Nam,Mallard
-418,Viet Nam,Swine
-419,Viet Nam,Human
-420,Viet Nam,Flycatcher
-421,Viet Nam,Quail
-422,Viet Nam,Chicken
-423,Viet Nam,Muscovy Duck
-424,Viet Nam,Dove
-425,Viet Nam,Babbler
-426,United Kingdom,Horse
-427,United Kingdom,Swine
-428,United Kingdom,Human
-429,Malaysia,Human
-430,Malaysia,Duck
-431,Austria,Horse
-432,Austria,Human
-433,Uganda,Human
-434,Greece,Human
-435,Colombia,Human
-436,Japan,Eagle
-437,Japan,Avian
-438,Japan,Falcon
-439,Japan,Crow
-440,Japan,Swan
-441,Japan,Whooper Swan
-442,Japan,Peregrine Falcon
-443,Japan,Northern Pintail
-444,Japan,Mallard
-445,Japan,Parakeet
-446,Japan,Human
-447,Japan,Duck
-448,Japan,Tufted Duck
-449,Japan,Quail
-450,Japan,Chicken
-451,Japan,Tundra Swan
-452,Japan,Crane
-453,Japan,Swine
-454,Taiwan,Ferret
-455,Taiwan,Swine
-456,Taiwan,Human
-457,Taiwan,Duck
-458,Taiwan,Partridge
-459,Taiwan,Chicken
-460,Nicaragua,Human
+30,Cambodia,Stork
+31,Cambodia,Environment
+32,Cambodia,Chicken
+33,Cambodia,Human
+34,Cambodia,Duck
+35,Argentina,Rosy-Billed Pochard
+36,Argentina,Horse
+37,Argentina,Human
+38,Bolivia,Human
+39,Saudi Arabia,Turkey
+40,Saudi Arabia,Falcon
+41,Saudi Arabia,Avian
+42,Slovenia,Swan
+43,Guatemala,Chicken
+44,Guatemala,Blue-Winged Teal
+45,Spain,Swine
+46,Spain,Human
+47,Netherlands,Teal
+48,Netherlands,Mute Swan
+49,Netherlands,Shoveler
+50,Netherlands,Herring Gull
+51,Netherlands,Barnacle Goose
+52,Netherlands,Black-Headed Gull
+53,Netherlands,Goose
+54,Netherlands,Mallard
+55,Netherlands,Ruddy Turnstone
+56,Netherlands,Eurasian Wigeon
+57,Netherlands,Swine
+58,Netherlands,Human
+59,Netherlands,Northern Shoveler
+60,Netherlands,Common Eider
+61,Netherlands,Pink-Footed Goose
+62,Netherlands,Chicken
+63,Netherlands,Bewick's Swan
+64,New Zealand,Mallard
+65,New Zealand,Human
+66,Pakistan,Chicken
+67,United Arab Emirates,Chicken
+68,Guam,Human
+69,India,Goose
+70,India,Aquatic Bird
+71,India,Chicken
+72,India,Human
+73,South Korea,Baikal Teal
+74,South Korea,Horse
+75,South Korea,Eurasian Eagle-Owl
+76,South Korea,Domestic Cat
+77,South Korea,Teal
+78,South Korea,Aquatic Bird
+79,South Korea,Common Coot
+80,South Korea,Dog
+81,South Korea,Goose
+82,South Korea,Mallard
+83,South Korea,Waterfowl
+84,South Korea,Swine
+85,South Korea,Human
+86,South Korea,Duck
+87,South Korea,Chicken
+88,South Korea,Tundra Swan
+89,South Korea,Bird
+90,South Korea,Environment
+91,Turkey,Human
+92,Afghanistan,Chicken
+93,Bangladesh,Environment
+94,Bangladesh,Quail
+95,Bangladesh,Chicken
+96,Bangladesh,Duck
+97,Viet Nam,Goose
+98,Viet Nam,Aquatic Bird
+99,Viet Nam,Flycatcher
+100,Viet Nam,Japanese Quail
+101,Viet Nam,Environment
+102,Viet Nam,Mallard
+103,Viet Nam,Swine
+104,Viet Nam,Human
+105,Viet Nam,Duck
+106,Viet Nam,Quail
+107,Viet Nam,Chicken
+108,Viet Nam,Muscovy Duck
+109,Viet Nam,Dove
+110,Viet Nam,Babbler
+111,Mongolia,Herring Gull
+112,Mongolia,Camel
+113,Mongolia,Black-Headed Gull
+114,Mongolia,Common Goldeneye
+115,Mongolia,Whooper Swan
+116,Mongolia,Red-Crested Pochard
+117,Mongolia,Human
+118,Mongolia,Duck
+119,France,Turkey
+120,France,Mallard
+121,France,Swine
+122,France,Human
+123,France,Duck
+124,France,Muscovy Duck
+125,Peru,Human
+126,Laos,Environment
+127,Laos,Chicken
+128,Laos,Pigeon
+129,Laos,Duck
+130,Norway,Swine
+131,Norway,Human
+132,Singapore,Human
+133,China,Egret
+134,China,Horse
+135,China,Canvasback
+136,China,Condor
+137,China,Swan
+138,China,Pigeon
+139,China,Magpie
+140,China,Environment
+141,China,Bar-Headed Goose
+142,China,Great Black-Headed Gull
+143,China,Grebe
+144,China,Finch
+145,China,Muscovy Duck
+146,China,Bird
+147,China,Little Grebe
+148,China,Wild Chicken
+149,China,Myna
+150,China,Baikal Teal
+151,China,Domestic Cat
+152,China,Parrot
+153,China,Large Cat
+154,China,Green-Winged Teal
+155,China,Silky Chicken
+156,China,Dog
+157,China,Ostrich
+158,China,Waterfowl
+159,China,Swine
+160,China,Brown-Headed Gull
+161,China,Shrike
+162,China,Garganey
+163,China,Black-Billed Magpie
+164,China,Sparrow
+165,China,Spot-Billed Duck
+166,China,Goose
+167,China,Mallard
+168,China,Human
+169,China,Duck
+170,China,Quail
+171,China,Chicken
+172,China,Panda
+173,Dominican Republic,Human
+174,Finland,Human
+175,Cote dIvoire,Turkey
+176,Cote dIvoire,Chicken
+177,Cote dIvoire,Duck
+178,Indonesia,Quail
+179,Indonesia,Chicken
+180,Indonesia,Swine
+181,Indonesia,Human
+182,Indonesia,Duck
+183,Sweden,Dunlin
+184,Sweden,Black-Headed Gull
+185,Sweden,Mallard
+186,Sweden,Eurasian Wigeon
+187,Sweden,Weasel
+188,Sweden,Human
+189,Russia,Teal
+190,Russia,Turkey
+191,Russia,Garganey
+192,Russia,Mute Swan
+193,Russia,Grebe
+194,Russia,Pigeon
+195,Russia,Great Crested Grebe
+196,Russia,Gull
+197,Russia,Gadwall
+198,Russia,Whooper Swan
+199,Russia,Goose
+200,Russia,Unknown
+201,Russia,Mallard
+202,Russia,Rook
+203,Russia,Starling
+204,Russia,Human
+205,Russia,Duck
+206,Russia,Chicken
+207,Russia,Muscovy Duck
+208,Romania,Horse
+209,Portugal,Tufted Duck
+210,Portugal,Mallard
+211,South Africa,Horse
+212,South Africa,Human
+213,South Africa,Ostrich
+214,Malaysia,Human
+215,Malaysia,Duck
+216,Senegal,Human
+217,Uganda,Human
+218,Hungary,Goose
+219,Hungary,Mute Swan
+220,Hungary,Swine
+221,Hungary,Human
+222,Brazil,Semipalmated Sandpiper
+223,Brazil,Swine
+224,Brazil,Human
+225,Ontario,Swine
+226,Kuwait,Chicken
+227,Kuwait,Saker Falcon
+228,Kuwait,Human
+229,Luxembourg,Human
+230,Nigeria,Guineafowl
+231,Nigeria,Chicken
+232,Nigeria,Ostrich
+233,Ecuador,Human
+234,Czech Republic,Swine
+235,Czech Republic,Human
+236,Australia,Avian
+237,Australia,Teal
+238,Australia,Black Duck
+239,Australia,Sooty Tern
+240,Australia,Emu
+241,Australia,Starling
+242,Australia,Human
+243,Australia,Duck
+244,Australia,Chicken
+245,Australia,Red-Necked Stint
+246,Australia,Sharp-Tailed Sandpiper
+247,Iran,Chicken
+248,Bhutan,Chicken
+249,El Salvador,Human
+250,Chile,Human
+251,Belgium,Mallard
+252,Belgium,Swine
+253,Belgium,Human
+254,Thailand,Unknown
+255,Thailand,Pigeon
+256,Thailand,Little Grebe
+257,Thailand,Tree Sparrow
+258,Thailand,Swine
+259,Thailand,Human
+260,Thailand,Duck
+261,Thailand,Openbill Stork
+262,Thailand,Quail
+263,Thailand,Chicken
+264,Iraq,Human
+265,Hong Kong,Egret
+266,Hong Kong,Magpie Robin
+267,Hong Kong,Heron
+268,Hong Kong,Pigeon
+269,Hong Kong,Environment
+270,Hong Kong,Grey Heron
+271,Hong Kong,Northern Shoveler
+272,Hong Kong,Avian
+273,Hong Kong,Peregrine Falcon
+274,Hong Kong,Guineafowl
+275,Hong Kong,Chukar
+276,Hong Kong,Little Egret
+277,Hong Kong,Silky Chicken
+278,Hong Kong,Northern Pintail
+279,Hong Kong,Waterfowl
+280,Hong Kong,Swine
+281,Hong Kong,Teal
+282,Hong Kong,Chicken
+283,Hong Kong,Pheasant
+284,Hong Kong,Eurasian Wigeon
+285,Hong Kong,Human
+286,Hong Kong,Duck
+287,Hong Kong,Quail
+288,Hong Kong,Barn Swallow
+289,Georgia,Garganey
+290,Georgia,Gull
+291,Georgia,Duck
+292,Georgia,Black-Headed Gull
+293,Georgia,Mallard
+294,Georgia,Teal
+295,Georgia,Northern Shoveler
+296,Denmark,Swine
+297,Denmark,Human
+298,Denmark,Duck
+299,Philippines,Human
+300,Croatia,Mute Swan
+301,Switzerland,Horse
+302,Switzerland,Human
+303,Estonia,Human
+304,Lebanon,Quail
+305,Lebanon,Human
+306,Colombia,Human
+307,Taiwan,Ferret
+308,Taiwan,Swine
+309,Taiwan,Human
+310,Taiwan,Duck
+311,Taiwan,Partridge
+312,Taiwan,Chicken
+313,Nicaragua,Human
+314,Qatar,Human
+315,Italy,Turkey
+316,Italy,Poultry
+317,Italy,Horse
+318,Italy,Mute Swan
+319,Italy,Teal
+320,Italy,Ostrich
+321,Italy,Guineafowl
+322,Italy,Mallard
+323,Italy,Swine
+324,Italy,Human
+325,Italy,Duck
+326,Italy,Quail
+327,Italy,Chicken
+328,USA,Pintail
+329,USA,Turkey
+330,USA,Horse
+331,USA,Ruddy Turnstone
+332,USA,American Black Duck
+333,USA,American Green-Winged Teal
+334,USA,Unknown
+335,USA,Swan
+336,USA,Gull
+337,USA,Common Goldeneye
+338,USA,Environment
+339,USA,Common Eider
+340,USA,Softbill
+341,USA,Grebe
+342,USA,Northern Shoveler
+343,USA,Redhead
+344,USA,Muscovy Duck
+345,USA,Tundra Swan
+346,USA,Bird
+347,USA,Avian
+348,USA,Coot
+349,USA,Cinnamon Teal
+350,USA,Common Murre
+351,USA,Canada Goose
+352,USA,Guineafowl
+353,USA,Greater White-Fronted Goose
+354,USA,Bufflehead
+355,USA,Greater Scaup
+356,USA,Dove
+357,USA,Least Sandpiper
+358,USA,Weasel
+359,USA,Blue-Winged Teal
+360,USA,Ring-Necked Duck
+361,USA,Knot
+362,USA,Parrot
+363,USA,White-Winged Scoter
+364,USA,Pigeon
+365,USA,American Wigeon
+366,USA,Green-Winged Teal
+367,USA,Lesser Scaup
+368,USA,Black Duck
+369,USA,Semipalmated Sandpiper
+370,USA,Northern Pintail
+371,USA,Mute Swan
+372,USA,Waterfowl
+373,USA,Swine
+374,USA,Teal
+375,USA,Long-Tailed Duck
+376,USA,Chukar
+377,USA,Laughing Gull
+378,USA,Shorebird
+379,USA,Emu
+380,USA,Gadwall
+381,USA,Pheasant
+382,USA,Herring Gull
+383,USA,Rhea
+384,USA,Black Scoter
+385,USA,Snow Goose
+386,USA,Goose
+387,USA,Mallard
+388,USA,Red Knot
+389,USA,Human
+390,USA,Duck
+391,USA,Quail
+392,USA,Chicken
+393,USA,Common Scoter
+394,USA,Sanderling
+395,Sudan,Chicken
+396,Nepal,Human
+397,Israel,Turkey
+398,Israel,Chicken
+399,Israel,Avian
+400,Iceland,Iceland Gull
+401,Iceland,Herring Gull
+402,Iceland,Black-Headed Gull
+403,Iceland,Glaucous Gull
+404,Iceland,Gull
+405,Iceland,Goose
+406,Iceland,Mallard
+407,Iceland,Pink-Footed Goose
+408,Zambia,Pelican
+409,Zambia,Duck
+410,Austria,Horse
+411,Austria,Human
+412,Germany,Mute Swan
+413,Germany,Swan
+414,Germany,Mallard
+415,Germany,Weasel
+416,Germany,Human
+417,Germany,Duck
+418,Germany,Chicken
+419,Germany,Swine
+420,Kazakhstan,Human
+421,Poland,Turkey
+422,Poland,Chicken
+423,Poland,Swine
+424,Poland,Human
+425,-N/A-,Ferret
+426,-N/A-,Human
+427,Kyrgyzstan,Human
+428,New Caledonia,Human
+429,Japan,Eagle
+430,Japan,Avian
+431,Japan,Falcon
+432,Japan,Crow
+433,Japan,Swan
+434,Japan,Whooper Swan
+435,Japan,Peregrine Falcon
+436,Japan,Northern Pintail
+437,Japan,Mallard
+438,Japan,Swine
+439,Japan,Human
+440,Japan,Duck
+441,Japan,Tufted Duck
+442,Japan,Quail
+443,Japan,Chicken
+444,Japan,Tundra Swan
+445,Japan,Crane
+446,Japan,Parakeet
+447,Myanmar,Quail
+448,Myanmar,Chicken
+449,Myanmar,Human
+450,Mexico,Cinnamon Teal
+451,Mexico,Chicken
+452,Mexico,Swine
+453,Mexico,Human
+454,Egypt,Turkey
+455,Egypt,Avian
+456,Egypt,Goose
+457,Egypt,Whiskered Tern
+458,Egypt,Duck
+459,Egypt,Chicken
+460,United Kingdom,Horse
+461,United Kingdom,Swine
+462,United Kingdom,Human
+463,Greece,Human
