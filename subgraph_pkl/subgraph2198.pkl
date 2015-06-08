@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qUA/mallard/Netherlands/12/2001q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1007337600000000000
-NNáRq
-UcountryqUNetherlandsqUhost_speciesqUMallard/AvianqUsubtypeqUH4N2qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

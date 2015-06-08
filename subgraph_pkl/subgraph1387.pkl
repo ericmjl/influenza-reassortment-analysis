@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU-A/American black duck/Wisconsin/10OS3949/2010q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1290038400000000000
-NNáRq
-UcountryqUUSAqUstateqU	WisconsinqUhost_speciesqUAvianqUsubtypeqUH7N8qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

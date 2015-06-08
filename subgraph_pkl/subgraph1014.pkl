@@ -1,8 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qUA/mallard/California/1357/2013q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1374451200000000000
-NNáRq
-UcountryqUUSAqUstateqU
-CaliforniaqUhost_speciesqUMallard/AvianqUsubtypeqUH5N5qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

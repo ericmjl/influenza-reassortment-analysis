@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qUA/swine/Hong Kong/NS2761/2010q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1285804800000000000
-NNáRq
-UcountryqU	Hong KongqUhost_speciesqUSwineqUsubtypeqUH1N1qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

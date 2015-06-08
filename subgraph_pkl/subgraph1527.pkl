@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qUA/mallard/Ohio/362/2003q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1041379200000000000
-NNáRq
-UcountryqUUSAqUstateqUOhioqUhost_speciesqUMallard/AvianqUsubtypeqUH2N1qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

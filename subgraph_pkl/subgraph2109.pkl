@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qUA/mallard/MN/160/1999q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I915148800000000000
-NNáRq
-UcountryqUUSAqUstateqUMNqUhost_speciesqUMallard/AvianqUsubtypeqUH4N6qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

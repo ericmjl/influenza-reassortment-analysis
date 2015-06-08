@@ -1,8 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU;A/glaucous-winged gull/Southeastern Alaska/10JR01681R0/2010q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1283904000000000000
-NNáRq
-UcountryqUUSAqUstateqUSoutheastern AlaskaqUhost_speciesqU
-Gull/AvianqUsubtypeqUH16N3qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

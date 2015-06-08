@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU)A/northern pintail/Illinois/11OS4796/2011q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1319241600000000000
-NNáRq
-UcountryqUUSAqUstateqUIllinoisqUhost_speciesqUNorthern Pintail/AvianqUsubtypeqUH5N3qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

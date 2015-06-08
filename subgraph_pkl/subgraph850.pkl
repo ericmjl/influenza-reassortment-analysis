@@ -1,8 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU)A/green-winged teal/California/11285/2008q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1229126400000000000
-NNáRq
-UcountryqUUSAqUstateqU
-CaliforniaqUhost_speciesqUGreen-Winged Teal/AvianqUsubtypeqUMixedqusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

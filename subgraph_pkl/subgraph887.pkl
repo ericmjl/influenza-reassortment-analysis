@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU0A/northern shoveler/Interior Alaska/7MP0944/2007q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1189123200000000000
-NNáRq
-UcountryqUUSAqUstateqUInterior AlaskaqUhost_speciesqUNorthern Shoveler/AvianqUsubtypeqUH3N8qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

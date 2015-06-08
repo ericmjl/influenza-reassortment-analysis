@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qUA/mallard/Jiangxi/6285/2004q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1072915200000000000
-NNáRq
-UcountryqUChinaqUstateqUJiangxiqUhost_speciesqUMallard/AvianqUsubtypeqUH6N8qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

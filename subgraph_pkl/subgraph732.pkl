@@ -1,8 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU#A/bufflehead/California/JN1016/2006q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1165363200000000000
-NNáRq
-UcountryqUUSAqUstateqU
-CaliforniaqUhost_speciesqUBufflehead/AvianqUsubtypeqUH2N9qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

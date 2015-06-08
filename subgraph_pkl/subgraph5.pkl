@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qUA/tufted duck/PT/13771/2006q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1142985600000000000
-NNáRq
-UcountryqUPortugalqUstateqUPTqUhost_speciesqUTufted Duck/AvianqUsubtypeqUH7N3qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

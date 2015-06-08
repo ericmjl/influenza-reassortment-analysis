@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qUA/black duck/AUS/4045/1980q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I338860800000000000
-NNáRq
-UcountryqU	AustraliaqUstateqUAUSqUhost_speciesqUAvianqUsubtypeqUH6N5qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

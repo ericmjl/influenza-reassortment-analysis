@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU$A/mallard/Republic of Georgia/1/2012q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1326153600000000000
-NNáRq
-UcountryqUGeorgiaqUstateqURepublic of GeorgiaqUhost_speciesqUMallard/AvianqUsubtypeqUH1N1qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

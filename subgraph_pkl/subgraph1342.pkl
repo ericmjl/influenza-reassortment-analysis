@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU4A/American green-winged teal/Wisconsin/11OS3053/2011q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1316822400000000000
-NNáRq
-UcountryqUUSAqUstateqU	WisconsinqUhost_speciesqUAvianqUsubtypeqUH6N1qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

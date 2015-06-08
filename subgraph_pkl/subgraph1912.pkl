@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU!A/shorebird/Delaware Bay/483/2008q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1210982400000000000
-NNáRq
-UcountryqUUSAqUstateqUDelaware BayqUhost_speciesqUShorebird/AvianqUsubtypeqUH6N8qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

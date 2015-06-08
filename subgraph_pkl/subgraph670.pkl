@@ -1,8 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qUA/duck/Hokkaido/Vac-1/04q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1072915200000000000
-NNáRq
-UcountryqUJapanqUstateqUHokkaidoqUhost_speciesqU
-Duck/AvianqUsubtypeqUH5N1qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

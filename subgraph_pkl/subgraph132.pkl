@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU5A/American green-winged teal/Mississippi/12OS191/2012q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1326672000000000000
-NNáRq
-UcountryqUUSAqUstateqUMississippiqUhost_speciesqUAvianqUsubtypeqUH5N3qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

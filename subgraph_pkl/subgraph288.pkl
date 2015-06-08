@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU(A/ruddy turnstone/Delaware Bay/2830/1987q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I548380800000000000
-NNáRq
-UcountryqUUSAqUstateqUDelaware BayqUhost_speciesqURuddy Turnstone/AvianqUsubtypeqUH9N5qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.

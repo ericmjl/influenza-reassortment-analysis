@@ -1,7 +1,0 @@
-Äcnetworkx.classes.digraph
-DiGraph
-q)Åq}q(Unodeq}qU"A/mallard/Mississippi/12OS443/2012q}q(Ucollection_dateqcpandas.tslib
-Timestamp
-q	I1326844800000000000
-NNáRq
-UcountryqUUSAqUstateqUMississippiqUhost_speciesqUMallard/AvianqUsubtypeqUH10N1qusUgraphq}qUsuccq}qh}sUedgeqhUpredq}qh}sUadjqhub.
